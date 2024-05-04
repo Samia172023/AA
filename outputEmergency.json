@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Pharmacy AL FAHS",
+    "address": "10, Rue 36, Jirari 2, Béni Makada",
+    "phoneNumber": "+212 5 39 95 00 63",
+    "latitude": 35.750299212005984,
+    "longitude": -5.814785427499508
+  },
+  {
+    "name": "Pharmacy ANNAJAT",
+    "address": "114, Avenue Moulay Rachid",
+    "phoneNumber": "+212 5 39 31 39 66",
+    "latitude": 35.76992442007428,
+    "longitude": -5.83186684585438
+  },
+  {
+    "name": "Pharmacy Assabr",
+    "address": "Complexe Assanawbar, Tanja Balia",
+    "phoneNumber": "",
+    "latitude": 35.758070537622075,
+    "longitude": -5.760530493740261
+  },
+  {
+    "name": "Pharmacy BEN ABBOU",
+    "address": "Lot. Safir Nr. 27, Mesnana",
+    "phoneNumber": "+212 5 39 38 83 90",
+    "latitude": 35.75001777092549,
+    "longitude": -5.854998137543275
+  },
+  {
+    "name": "Pharmacy Chams Ahlen",
+    "address": "428, Lotissement Riad Ahlen 2",
+    "phoneNumber": "+212 5 39 42 44 95",
+    "latitude": 35.74225279369718,
+    "longitude": -5.838498844359636
+  },
+  {
+    "name": "Pharmacy DE TANGER",
+    "address": "Route de Tétouan, Complexe Amal III",
+    "phoneNumber": "+212 5 39 95 48 08",
+    "latitude": 35.760275478779846,
+    "longitude": -5.7827686779292975
+  },
+  {
+    "name": "Pharmacy GRANADA",
+    "address": "18, Rue Teheran",
+    "phoneNumber": "+212 5 39 94 07 72",
+    "latitude": 35.77591246198762,
+    "longitude": -5.807902413225976
+  },
+  {
+    "name": "Pharmacy Grand Maghrib",
+    "address": "Route Al Aouama, Lotissement Andalouss, Nr. 57",
+    "phoneNumber": "+212 5 39 35 22 46",
+    "latitude": 35.72823920809751,
+    "longitude": -5.806119688049193
+  }
+]

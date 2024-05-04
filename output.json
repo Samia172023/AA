@@ -1,0 +1,2522 @@
+[
+  {
+    "name": "Pharmacie AL FATH",
+    "address": "26, Avenue Royaume Arabie Saoudite, Hay Gourziana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 10 19",
+    "mapLink": " https://www.google.com/maps/place/35.74202857690179,-5.812725203344628 "
+  },
+  {
+    "name": "Pharmacie AL FIRDAOUS",
+    "address": "3, Rue 29, Extention Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 74 88",
+    "mapLink": " https://www.google.com/maps/place/35.75441624788419,-5.827535388786375 "
+  },
+  {
+    "name": "Pharmacie AL GHAZALI",
+    "address": "73, Avenue Haroun Errachid, Colonia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 96 05",
+    "mapLink": " https://www.google.com/maps/place/35.76956240856009,-5.820817133504132 "
+  },
+  {
+    "name": "Pharmacie AL HAMBRA",
+    "address": "30, Rue Essaoudia, Hay Haddad 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 41 66",
+    "mapLink": " https://www.google.com/maps/place/35.7390130330961,-5.805621368158484 "
+  },
+  {
+    "name": "Pharmacie AL HAMD",
+    "address": "1, Rihab, Avenue des FAR, Complexe Hassani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 61 33",
+    "mapLink": " https://www.google.com/maps/place/35.73577240679568,-5.859010312004386 "
+  },
+  {
+    "name": "Pharmacie AL HANAE",
+    "address": "Route Principale,  Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 10 39",
+    "mapLink": " https://www.google.com/maps/place/35.73087417855951,-5.802925969210422 "
+  },
+  {
+    "name": "Pharmacie AL HILAL",
+    "address": "Avenue des FAR, Ennasr 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 36 29",
+    "mapLink": " https://www.google.com/maps/place/35.754209241009754,-5.830203816904474 "
+  },
+  {
+    "name": "Pharmacie Al Hoda",
+    "address": "166, Avenue Tarik Ibn Ziad 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 09 44",
+    "mapLink": " https://www.google.com/maps/place/  35.251468397588646  ,  -3.940599225461483     "
+  },
+  {
+    "name": "Pharmacie AL HOURRIA",
+    "address": "Rue Bouziane, Hay Assalam, El Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 02 28",
+    "mapLink": " https://www.google.com/maps/place/35.746848473608026,-5.800457016930432 "
+  },
+  {
+    "name": "Pharmacie AL IDRISSI",
+    "address": "140, Rue  Bir Chifa, Quartier Mokadem 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 84 58",
+    "mapLink": " https://www.google.com/maps/place/35.74622437116014,-5.816753501416996 "
+  },
+  {
+    "name": "Pharmacie AL IHSSANE",
+    "address": "Mesnana début Route Rahrah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 19 36",
+    "mapLink": " https://www.google.com/maps/place/35.757423024810656,-5.852476454591541 "
+  },
+  {
+    "name": "Pharmacie AL IRFANE",
+    "address": "Lot. Irfane, Doha, Boukhalef 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 48 29",
+    "mapLink": " https://www.google.com/maps/place/35.732383632703296,-5.882035521597766 "
+  },
+  {
+    "name": "Pharmacie Avicenne",
+    "address": "Avenue Tarik Ibnou Ziad, Imm. Caballo, 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 29 16",
+    "mapLink": " https://www.google.com/maps/place/  35.24848397216033  ,  -3.9338407292962074     "
+  },
+  {
+    "name": "Pharmacie Azhar Chifae",
+    "address": "Route Principale Aouama Charkia 90090 TANGER - Maroc",
+    "telephone": "+212 05 39 95 83 21",
+    "mapLink": " https://www.google.com/maps/place/ 35.72036549798895 , -5.797842890024185   "
+  },
+  {
+    "name": "Pharmacie Azir",
+    "address": "161, Avenue Sidi Abid 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 53 88",
+    "mapLink": " https://www.google.com/maps/place/  35.25399439513205  ,  -3.9347724616527557     "
+  },
+  {
+    "name": "Pharmacie BAB EL BHAR",
+    "address": "28, Rue Bab El  Assa, Kasbah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 05 61",
+    "mapLink": " https://www.google.com/maps/place/35.787944094832156,-5.811777102852075 "
+  },
+  {
+    "name": "Pharmacie BADR",
+    "address": "49, Rue Hind,  Béni Makada k'dima 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 16 54",
+    "mapLink": " https://www.google.com/maps/place/  35.74497829202966  ,  -5.809534473980241     "
+  },
+  {
+    "name": "Pharmacie BAHRAYEN",
+    "address": "Quartier Mers, Achenad lakdima 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 82 90",
+    "mapLink": " https://www.google.com/maps/place/ 35.73425376572261 , -5.827186686105614   "
+  },
+  {
+    "name": "Pharmacie BAIT AL MAKDISS",
+    "address": "Route Sidi Driss, Hay El Mers 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 40 11",
+    "mapLink": " https://www.google.com/maps/place/35.73856593123798,-5.8319932582118845 "
+  },
+  {
+    "name": "Pharmacie BANAFSAJ",
+    "address": "Rue Banafsaj, Dradeb 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 00 72",
+    "mapLink": " https://www.google.com/maps/place/ 35.78764235871292 , -5.8349735097198785   "
+  },
+  {
+    "name": "Pharmacie BAYTI",
+    "address": "296, Avenue des FAR complexe Hassani, bayti, Imm°35 90000 TANGER - Maroc",
+    "telephone": "+212 05 50 04 28 88",
+    "mapLink": " https://www.google.com/maps/place/35.748942325364645,-5.811531325773813 "
+  },
+  {
+    "name": "Pharmacie BD MOHAMED VI",
+    "address": "Avenue Mohamed VI, Baie de Tanger 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 21 81",
+    "mapLink": " https://www.google.com/maps/place/35.774214184606286,-5.784440284246487 "
+  },
+  {
+    "name": "Pharmacie BD MOULAY RACHID",
+    "address": "13, Avenue Moulay Rachid, Val Fleuri 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 32 77",
+    "mapLink": " https://www.google.com/maps/place/ 35.767329687606036 , -5.833356180854748   "
+  },
+  {
+    "name": "Pharmacie BEKOURI",
+    "address": "Lot. Mers 2, Houmat Kouades,  Bir Chifa  90000 TANGER - Maroc",
+    "telephone": "+212 67 16 95 58 9",
+    "mapLink": " https://www.google.com/maps/place/35.73967277030293,-5.821718322626144 "
+  },
+  {
+    "name": "Pharmacie AMALAT BENI MAKADA",
+    "address": "Avenue Principale Gorziana, Bir Aharchoun  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 36 64",
+    "mapLink": " https://www.google.com/maps/place/35.741613317361335,-5.809670418032467 "
+  },
+  {
+    "name": "Pharmacie ANAS",
+    "address": "78, Avenue Al Hoceima, Rue 17,  Annasr 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 06 79 17",
+    "mapLink": " https://www.google.com/maps/place/ 35.75184398654716 , -5.831900101086013   "
+  },
+  {
+    "name": "Pharmacie ANDALUCIA",
+    "address": "Houamat Soussi,Lot. Andalous, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 01 97",
+    "mapLink": " https://www.google.com/maps/place/35.73133101316853,-5.806910283567987 "
+  },
+  {
+    "name": "Pharmacie ANEGAY",
+    "address": "8, Rue Semmarine, Souk Eddakhel 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 11 62",
+    "mapLink": " https://www.google.com/maps/place/35.785045302278434,-5.812404964247024 "
+  },
+  {
+    "name": "Pharmacie ANFA",
+    "address": "23, Avenue Haroun Errachid 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 12 88",
+    "mapLink": " https://www.google.com/maps/place/35.768910799025925,-5.8170893682816835 "
+  },
+  {
+    "name": "Pharmacie Anissa",
+    "address": "33, Avenue 9 Juillet 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 42 34",
+    "mapLink": " https://www.google.com/maps/place/  35.24120644200022  ,  -3.9304661750793457     "
+  },
+  {
+    "name": "Pharmacie ANNAJAT",
+    "address": "114, Avenue Moulay Rachid  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 39 66",
+    "mapLink": " https://www.google.com/maps/place/35.76992442007428,-5.83186684585438 "
+  },
+  {
+    "name": "Pharmacie ANNASR",
+    "address": "212, Hay Annasr, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 08 64",
+    "mapLink": " https://www.google.com/maps/place/35.750493275382986,-5.829552496160138 "
+  },
+  {
+    "name": "Pharmacie ANNASSIHA",
+    "address": "16, Avenue Koweit, Hay Bouhout 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 45 05",
+    "mapLink": " https://www.google.com/maps/place/ 35.737830071377374 , -5.808420878785158   "
+  },
+  {
+    "name": "Pharmacie ANNOUR",
+    "address": "15, Avenue Mauritanie, Dhar Ejjaidi  90000 TANGER - Maroc",
+    "telephone": "+212 07 74 18 37 87",
+    "mapLink": " https://www.google.com/maps/place/ 35.74488264298018 , -5.803594241899394   "
+  },
+  {
+    "name": "Pharmacie ANOUAL",
+    "address": "26, Avenue al qodss, Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 01 48",
+    "mapLink": " https://www.google.com/maps/place/ 35.75016611099085 , -5.799257618193082   "
+  },
+  {
+    "name": "Pharmacie Anwal",
+    "address": "36, Rue Imzouren 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 29 17",
+    "mapLink": " https://www.google.com/maps/place/ 35.241452614897874 , -3.9276988059282303   "
+  },
+  {
+    "name": "Pharmacie IMAM BOUKHARI",
+    "address": "159, Rue principal, Haoumat Echouk 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 99 28",
+    "mapLink": " https://www.google.com/maps/place/35.761562708387046,-5.785104818182364 "
+  },
+  {
+    "name": "Pharmacie IMAM CHADLI",
+    "address": "Hay Al warda, Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 04 16",
+    "mapLink": " https://www.google.com/maps/place/35.75599922484021,-5.850568015891401 "
+  },
+  {
+    "name": "Pharmacie IMAM CHATEBI",
+    "address": "2éme Rte désendant à droite aprés Hôpital Med. V  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 93 06",
+    "mapLink": " https://www.google.com/maps/place/35.77694445144062,-5.831905814043812 "
+  },
+  {
+    "name": "Pharmacie IMAM MALEK",
+    "address": "Avenue Cherif Sebti, Casabarata 90100 TANGER - Maroc",
+    "telephone": "+212 05 39 34 22 34",
+    "mapLink": " https://www.google.com/maps/place/35.76197499914721,-5.82223480902644 "
+  },
+  {
+    "name": "Pharmacie IMAM MOUSLIM",
+    "address": "87, Avenue Imam Mouslim, Ain Hayani Dradeb 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 71 85",
+    "mapLink": " https://www.google.com/maps/place/35.78541152918951,-5.82905392875049 "
+  },
+  {
+    "name": "Pharmacie IMAM NAFIE",
+    "address": "12, Lot. Belkhairi, Jamaa Al Arbain, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 03 65",
+    "mapLink": " https://www.google.com/maps/place/35.74894174212131,-5.805384070103663 "
+  },
+  {
+    "name": "Pharmacie INAS",
+    "address": "30, Avenue Ibn Abi Zare, Branes I 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 06 17",
+    "mapLink": " https://www.google.com/maps/place/35.759874657939434,-5.831123360373208 "
+  },
+  {
+    "name": "Pharmacie IRCHAD",
+    "address": "8, Route Rgaie, Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 39 39",
+    "mapLink": " https://www.google.com/maps/place/35.75535818150531,-5.798842511265395 "
+  },
+  {
+    "name": "Pharmacie JADE",
+    "address": "Rue ibn Ajroun Rés. Jade  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 32 31 34",
+    "mapLink": " https://www.google.com/maps/place/35.772375040274525,-5.805389117257638 "
+  },
+  {
+    "name": "Pharmacie JAMAA MEKRAA",
+    "address": "Jamaa Mekraa 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 37 59",
+    "mapLink": " https://www.google.com/maps/place/35.786458801682436,-5.843105743217973 "
+  },
+  {
+    "name": "Pharmacie JAMIE AL AZHAR",
+    "address": "10, Avenue Abde Rahman Al Kawakibi, Branes I 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 44 07",
+    "mapLink": " https://www.google.com/maps/place/35.76049397427954,-5.82587078679434 "
+  },
+  {
+    "name": "Pharmacie JAMILA",
+    "address": "128 bis, Rue de Fés 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 96 76",
+    "mapLink": " https://www.google.com/maps/place/35.77289239750672,-5.814100069051636 "
+  },
+  {
+    "name": "Pharmacie MOULAY ISMAIL",
+    "address": "Avenue Moulay Ismail et Avenue des FAR 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 24 10",
+    "mapLink": " https://www.google.com/maps/place/35.76712803505848,-5.807770328922436 "
+  },
+  {
+    "name": "Pharmacie MOULAY YOUSSEF",
+    "address": "50A, Avenue Moulay Youssef, Imm. AL Fath  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 55 97",
+    "mapLink": " https://www.google.com/maps/place/35.76980872143742,-5.805674925524148 "
+  },
+  {
+    "name": "Pharmacie MOUNTASSIR",
+    "address": "Centre Complexe Al Majd, Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 23 11",
+    "mapLink": " https://www.google.com/maps/place/35.73784923762821,-5.7991386495712645 "
+  },
+  {
+    "name": "Pharmacie MOUSTAGHFIR",
+    "address": "Avenue Moulay Rachid, Ziaten 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 07 74",
+    "mapLink": " https://www.google.com/maps/place/ 35.746755570132315 , -5.867098110399805   "
+  },
+  {
+    "name": "Pharmacie Najah",
+    "address": "Hay Mghogha Kbira, Route de Tétouan 90070 TANGER - Maroc",
+    "telephone": "+212 06 16 74 16 65",
+    "mapLink": " https://www.google.com/maps/place/35.74784451550978,-5.7727038860321045 "
+  },
+  {
+    "name": "Pharmacie NARJIS",
+    "address": "Route des FAR, Branes II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 57 69",
+    "mapLink": " https://www.google.com/maps/place/35.75574059045279,-5.834716685556831 "
+  },
+  {
+    "name": "Pharmacie NARJISS BOUKHALEF",
+    "address": "Complexe Al Irfan 2, Près de la Mosquée Al Irfan 90100 TANGER - Maroc",
+    "telephone": "+212 05 39 40 02 63",
+    "mapLink": " https://www.google.com/maps/place/35.74017586539389,-5.88979084003373 "
+  },
+  {
+    "name": "Pharmacie NORAN",
+    "address": "Oued Chatt, Rés Duodet, Tanja Balia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 28 74",
+    "mapLink": " https://www.google.com/maps/place/35.76024686566019,-5.7580591347740695 "
+  },
+  {
+    "name": "Pharmacie Noumidia",
+    "address": "57, Rue Abdellah Benyacine 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 06 45",
+    "mapLink": " https://www.google.com/maps/place/ 35.239051644218534 , -3.927462100982666   "
+  },
+  {
+    "name": "Pharmacie NOUR MOJAMAA HASSANI",
+    "address": "Moujamaa Hassani 90000 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/35.73090315079539,-5.852394917772112 "
+  },
+  {
+    "name": "Pharmacie NOURDDINE",
+    "address": "Lot. El Mers, Dhar Kanfoud 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 58 75",
+    "mapLink": " https://www.google.com/maps/place/35.73509968472803,-5.81764365891743 "
+  },
+  {
+    "name": "Pharmacie NOUVELLE",
+    "address": "4, Hay Al Hassania Nr. 2, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 31 96",
+    "mapLink": " https://www.google.com/maps/place/35.757236962095426,-5.824222297521775 "
+  },
+  {
+    "name": "Pharmacie BROOKS",
+    "address": "Rue de Grenade 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 85 35",
+    "mapLink": " https://www.google.com/maps/place/35.78383993872001,-5.8213437724939165 "
+  },
+  {
+    "name": "Pharmacie Calabonita",
+    "address": "Calabonita 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 58 64",
+    "mapLink": " https://www.google.com/maps/place/35.23341970896987,-3.9271439239382744 "
+  },
+  {
+    "name": "Pharmacie CALIFORNIA",
+    "address": "Rue Banafsaj, Boubana California 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 63 91",
+    "mapLink": " https://www.google.com/maps/place/35.78159474828432,-5.842224520768885 "
+  },
+  {
+    "name": "Pharmacie CAMELIA",
+    "address": "8, Moulay Rachid, Val Fleuri 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 31 37",
+    "mapLink": " https://www.google.com/maps/place/35.77308631664198,-5.829671375710723 "
+  },
+  {
+    "name": "Pharmacie CAP SPARTEL",
+    "address": "Complexe Al Irfane, Boukhalef 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 50 62",
+    "mapLink": " https://www.google.com/maps/place/35.73718149821281,-5.887663357954165 "
+  },
+  {
+    "name": "Pharmacie CASABARATA",
+    "address": "58A, Avenue Moulay Abdelhfid 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 82 13",
+    "mapLink": " https://www.google.com/maps/place/35.766933379763394,-5.821048313917571 "
+  },
+  {
+    "name": "Pharmacie CENTRALE",
+    "address": "48, Avenue pasteur  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 37 41",
+    "mapLink": " https://www.google.com/maps/place/35.7800943308685,-5.810113397026721 "
+  },
+  {
+    "name": "Pharmacie CERVANTES",
+    "address": "49, Rue Anoual, Cervantes 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 13 41",
+    "mapLink": " https://www.google.com/maps/place/35.78263846118451,-5.810452723841768 "
+  },
+  {
+    "name": "Pharmacie Chair",
+    "address": "Sania Kedima 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 26 52",
+    "mapLink": " https://www.google.com/maps/place/35.77792317284431,-5.754014253616333 "
+  },
+  {
+    "name": "Pharmacie Chams Ahlen",
+    "address": "428, Lotissement Riad Ahlen 2 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 42 44 95",
+    "mapLink": " https://www.google.com/maps/place/35.74225279369718,-5.838498844359636 "
+  },
+  {
+    "name": "Pharmacie Chams Aouama",
+    "address": "Hay kodia Hassan, Rond Point khandak al ward 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 03 84 69",
+    "mapLink": " https://www.google.com/maps/place/35.72562511234011,-5.785568244342049 "
+  },
+  {
+    "name": "Pharmacie CHARF",
+    "address": "59 Bis, Rue Yacoub El Mansour  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 60 34",
+    "mapLink": " https://www.google.com/maps/place/ 35.76661370037576 , -5.793873627373736   "
+  },
+  {
+    "name": "Pharmacie AHLEN",
+    "address": "Avenue des FAR, Résidence Habiba, Bloc A1 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 13 00",
+    "mapLink": " https://www.google.com/maps/place/35.747571877157725,-5.840305915690332 "
+  },
+  {
+    "name": "Pharmacie AICHE",
+    "address": "Ouad Chate, à côté d'Al Omrane, Tanja Balia  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 15 48",
+    "mapLink": " https://www.google.com/maps/place/35.76399265055511,-5.756327211271779 "
+  },
+  {
+    "name": "Pharmacie AIDA",
+    "address": "Rue Berkane Rés. Gama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 34 33 03",
+    "mapLink": " https://www.google.com/maps/place/ 35.775310759788695 , -5.795051804156103   "
+  },
+  {
+    "name": "Pharmacie Ain Dalia",
+    "address": "Route Adbellah Guennoun 90000 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/35.72009682650569,-5.804769648704089 "
+  },
+  {
+    "name": "Pharmacie AIN ECHIFAE",
+    "address": "1, Lot. El Azizia Rés. Aya 4, Complexe Al Hassani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 41 45",
+    "mapLink": " https://www.google.com/maps/place/ 35.73522336103733 , -5.851009585785468   "
+  },
+  {
+    "name": "Pharmacie AIN HAYYANI",
+    "address": "Avenue Imam kastalani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 43 74",
+    "mapLink": " https://www.google.com/maps/place/35.78279890715318,-5.828242327156493 "
+  },
+  {
+    "name": "Pharmacie AIN JDIDA",
+    "address": "Route de Tétouan, Mghogha Kbira  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 69 26",
+    "mapLink": " https://www.google.com/maps/place/35.74633551817917,-5.775552253303372 "
+  },
+  {
+    "name": "Pharmacie Ajial",
+    "address": "Complex Ajial (Al Harrarin) , Immeuble 4, Nr.2 90090 TANGER - Maroc",
+    "telephone": "+212 05 39 42 41 85",
+    "mapLink": " https://www.google.com/maps/place/ 35.730562645820534 , -5.84523618221283   "
+  },
+  {
+    "name": "Pharmacie AL AMAL",
+    "address": "20, Avenue Moulay Abdelaziz, Imm. Dar Al Amal 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 85 49",
+    "mapLink": " https://www.google.com/maps/place/35.762216521024854,-5.819683995935735 "
+  },
+  {
+    "name": "Pharmacie AL AMANA",
+    "address": "Avenue des FAR, Complexe Al Irfane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 44 01",
+    "mapLink": " https://www.google.com/maps/place/35.733876158233954,-5.876540298525941 "
+  },
+  {
+    "name": "Pharmacie AL ANDALOUS",
+    "address": "118, Avenue Mohamed V 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 69 10",
+    "mapLink": " https://www.google.com/maps/place/35.775791378133306,-5.8015055206255575 "
+  },
+  {
+    "name": "Pharmacie AL AOUDA",
+    "address": "186, Avenue Principal, Hay Al Aouda 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 05 00",
+    "mapLink": " https://www.google.com/maps/place/35.746958176731866,-5.806187828446996 "
+  },
+  {
+    "name": "Pharmacie Nouvelle Gare",
+    "address": "Al moujamae Al Hassani, Complexe Nour A, Cote de la Gare Routière 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 43 34 38",
+    "mapLink": " https://www.google.com/maps/place/ 35.72915254782525 , -5.849705226306161   "
+  },
+  {
+    "name": "Pharmacie OMAR IBN KHATTAB",
+    "address": "Lot. Al Badil, Harrarine, Ben Zouzine 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 47 61",
+    "mapLink": " https://www.google.com/maps/place/35.75866025191095,-5.85931716958399 "
+  },
+  {
+    "name": "Pharmacie OUAHABI",
+    "address": "Quartier Dziri, Jamaà El Mekraa 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 99 14",
+    "mapLink": " https://www.google.com/maps/place/35.7814628272206,-5.846655115672343 "
+  },
+  {
+    "name": "Pharmacie OUAHID",
+    "address": "39, Hay Boutrika, Mesnana II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 82 69",
+    "mapLink": " https://www.google.com/maps/place/35.756547030275215,-5.855786150436677 "
+  },
+  {
+    "name": "Pharmacie Oudaya",
+    "address": "Aouama charkia,  Souk Khandaq Lward  90000 TANGER - Maroc",
+    "telephone": "+212 05 31 03 91 09",
+    "mapLink": " https://www.google.com/maps/place/35.72587987680303,-5.790530331019601 "
+  },
+  {
+    "name": "Pharmacie OUED SANIA",
+    "address": "Route de Tanja Balia, Quartier Oued Sania 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 12 79",
+    "mapLink": " https://www.google.com/maps/place/ 35.76881179962721 , -5.757234565065323   "
+  },
+  {
+    "name": "Pharmacie Oulad Allal",
+    "address": "Lotissement 21, Lotissment Pilipo 90010 TANGER - Maroc",
+    "telephone": "+212 05 39 38 90 30",
+    "mapLink": " https://www.google.com/maps/place/  35.75529396976105  ,  -5.802196951477647     "
+  },
+  {
+    "name": "Pharmacie PALESTINE (EX PH.AOUFI)",
+    "address": "138, Nr. 10A, Hay Benkirane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 38 38",
+    "mapLink": " https://www.google.com/maps/place/  35.76400682425134  ,  -5.790863001606757     "
+  },
+  {
+    "name": "Pharmacie Paralinstitut",
+    "address": "53, Avenue de La Résistance 90020 TANGER - Maroc",
+    "telephone": "+212 05 39 94 54 64",
+    "mapLink": " https://www.google.com/maps/place/35.77682208540068,-5.808849334716797 "
+  },
+  {
+    "name": "Pharmacie PARIS",
+    "address": "Place de France 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 64 24",
+    "mapLink": " https://www.google.com/maps/place/ 35.78096483063775 , -5.812305365788333   "
+  },
+  {
+    "name": "Pharmacie PASSADENA",
+    "address": "Route de Tétouan,Résidence Passadena 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 25 25",
+    "mapLink": " https://www.google.com/maps/place/ 35.766159223683005 , -5.799401330801333   "
+  },
+  {
+    "name": "Pharmacie PASTEUR",
+    "address": "3, Place de France 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 24 22",
+    "mapLink": " https://www.google.com/maps/place/35.78107197015134,-5.812360998805294 "
+  },
+  {
+    "name": "Pharmacie Pharmacie du Quartier",
+    "address": "Riute Rgaya, Rue 56 , Haoumat Draoua  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 15 18",
+    "mapLink": " https://www.google.com/maps/place/ 35.7574098710916 , -5.796658711564549   "
+  },
+  {
+    "name": "Pharmacie Pharmacie El Hassani",
+    "address": "107-109, Hay El Qods, Avenue \"H\" 20600 CASABLANCA - Maroc",
+    "telephone": "+212 05 22 74 08 67",
+    "mapLink": " https://www.google.com/maps/place/ 33.61626383094996 , -7.49307744204998   "
+  },
+  {
+    "name": "Pharmacie Pharmacie El Hsissen",
+    "address": "Beni Tuzin, complexe résidentiel Al-Fath, route de la nouvelle gare (près de la nouvelle Kasbrata) 90000 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/35.72353965422963,-5.830021844568229 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Fehmi",
+    "address": "Mgogha Sguira, Face Ecole Lwaha 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 62 55",
+    "mapLink": " https://www.google.com/maps/place/ 35.75390987649647 , -5.780407674197396   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Haoumat Fatima",
+    "address": "Passage Piéton au-dessus de la voie ferrée,  Aouama 90014 TANGER - Maroc",
+    "telephone": "+212 05 31 04 72 70",
+    "mapLink": " https://www.google.com/maps/place/ 35.735501538040786 , -5.794070846919259   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Ibouyen",
+    "address": "15, Route Tanja El Balia, Lotissement Mediterannée 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 06 90",
+    "mapLink": " https://www.google.com/maps/place/ 35.77106148798089 , -5.764796731727984   "
+  },
+  {
+    "name": "Pharmacie Pharmacie khalifa",
+    "address": "Al Aouama, Nouvelle Route de la Gare 90000 TANGER - Maroc",
+    "telephone": "+212 08 08 64 20 47",
+    "mapLink": " https://www.google.com/maps/place/35.720409,-5.812232 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Khalil",
+    "address": "Avenue des FAR, Résidence Zemmouri, Bloc A2 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 40 12",
+    "mapLink": " https://www.google.com/maps/place/35.749893365010394,-5.833975853180247 "
+  },
+  {
+    "name": "Pharmacie Pharmacie la raison",
+    "address": "Hay Moujahidine Immeuble Akbib  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 42 15 11",
+    "mapLink": " https://www.google.com/maps/place/  35.76711782099522  ,  -5.844639390707016     "
+  },
+  {
+    "name": "Pharmacie Pharmacie leila",
+    "address": "Mghogha kbira, Rue Elmarjane  90070 TANGER - Maroc",
+    "telephone": "+212 05 39 35 05 75",
+    "mapLink": " https://www.google.com/maps/place/ 35.74814383457241 , -5.777834951877594   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Principale",
+    "address": "Rue Hammadi Ameziane, Immeuble les Roses de Tanger, Azib Haj kaddour 90100 TANGER - Maroc",
+    "telephone": "+212 05 39 31 62 36",
+    "mapLink": " https://www.google.com/maps/place/  35.753860068422725  ,  -5.84159642457962     "
+  },
+  {
+    "name": "Pharmacie Pharmacie Ramses",
+    "address": "Doha Dhar Kanfoud, El Mers al Baraka (Près école al Baraka) 90000 TANGER - Maroc",
+    "telephone": "+212 08 08 56 17 57",
+    "mapLink": " https://www.google.com/maps/place/ 35.728734489557105 , -5.8180471133033835   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Sekka Aouama",
+    "address": "Quartier de Sekka, Mrabet Charkia, Aouama 90080 TANGER - Maroc",
+    "telephone": "+212 06 20 28 35 90",
+    "mapLink": " https://www.google.com/maps/place/35.73223401085882,-5.794585011899471 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Socco Alto",
+    "address": "Route de Rmilat, Centre Commercial Socco Alto 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 94 77 08",
+    "mapLink": " https://www.google.com/maps/place/35.78060510562743,-5.840298235416412 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Tufarma",
+    "address": "Route Boukhalef, Complexe Bab Boughaz, à côté l'Université FST 90060 TANGER - Maroc",
+    "telephone": "+212 05 31 03 19 78",
+    "mapLink": " https://www.google.com/maps/place/      35.75992965698242      ,      -5.82599401473999             "
+  },
+  {
+    "name": "Pharmacie Pharmacie ZARIMA",
+    "address": "Avenue Abou Hassan Achadli, Lotissement Zarima 90090 TANGER - Maroc",
+    "telephone": "+212 05 31 01 27 49",
+    "mapLink": " https://www.google.com/maps/place/ 35.72760249361639 , -5.844144523143768   "
+  },
+  {
+    "name": "Pharmacie Phramacie des Acacias",
+    "address": "Boulevard Batli Mohamed Ben Mekki 20250 CASABLANCA - Maroc",
+    "telephone": "+212 05 22 24 81 81",
+    "mapLink": " https://www.google.com/maps/place/ 33.5998330196041 , -7.577722929418087   "
+  },
+  {
+    "name": "Pharmacie PLACE DES ARENES",
+    "address": "12, Route de Rgai, El Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 51 55",
+    "mapLink": " https://www.google.com/maps/place/35.7609083721129,-5.795819208560408 "
+  },
+  {
+    "name": "Pharmacie PLACE DU MAROC",
+    "address": "Avenue Moulay Abdelaziz, Rés. Jawhara 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 32 50 11",
+    "mapLink": " https://www.google.com/maps/place/ 35.76568310970974 , -5.816367248223894   "
+  },
+  {
+    "name": "Pharmacie POPULAIRE",
+    "address": "4, Nouveau quartier, Casabarata Souani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 82 17",
+    "mapLink": " https://www.google.com/maps/place/35.76814666495296,-5.824972416637177 "
+  },
+  {
+    "name": "Pharmacie PROVENCE",
+    "address": "Avenue Ali bay 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 98 94",
+    "mapLink": " https://www.google.com/maps/place/ 35.76441231514206 , -5.8082621578771665   "
+  },
+  {
+    "name": "Pharmacie RABEA AL ADAOUIA",
+    "address": "Rue 9, Nr.1, casabarata, Hay El Jadid  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 08 96",
+    "mapLink": " https://www.google.com/maps/place/ 35.765166512282185 , -5.824554351663782   "
+  },
+  {
+    "name": "Pharmacie RAHHALI",
+    "address": "Route de Tétouan, Complexe Hamza,  Mghogha 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 69 98",
+    "mapLink": " https://www.google.com/maps/place/35.74015609331755,-5.76523326118493 "
+  },
+  {
+    "name": "Pharmacie RAHMOUNI",
+    "address": "3, Rue Londres, Rés. les Palmiers Nr.3, Jnane Tanja 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 57 88",
+    "mapLink": " https://www.google.com/maps/place/35.772675137906575,-5.792504286939472 "
+  },
+  {
+    "name": "Pharmacie LES PARENTS",
+    "address": "Avenue Moulay Rachid (ENCG) 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 16 62",
+    "mapLink": " https://www.google.com/maps/place/35.757969803415435,-5.846900989804334 "
+  },
+  {
+    "name": "Pharmacie LOTIS IBN KHALDOUN",
+    "address": "60, Rue E, Lot. Ibn Khaldoun 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 33 46",
+    "mapLink": " https://www.google.com/maps/place/35.74942102850468,-5.816877276354956 "
+  },
+  {
+    "name": "Pharmacie LYCEE",
+    "address": "15, Avenue Allal Ben Abdellah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 11 78",
+    "mapLink": " https://www.google.com/maps/place/35.77826196027457,-5.809566703463187 "
+  },
+  {
+    "name": "Pharmacie M'GHOGHA",
+    "address": "Route de Tétouan, Mghogha Kdima  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 30 94",
+    "mapLink": " https://www.google.com/maps/place/35.74363100854494,-5.778310627306093 "
+  },
+  {
+    "name": "Pharmacie M'SALLAH",
+    "address": "45, Avenue Mohamed Ben Abdellah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 25 64",
+    "mapLink": " https://www.google.com/maps/place/35.77429465165565,-5.817586638589624 "
+  },
+  {
+    "name": "Pharmacie MABROUKA",
+    "address": "25, Avenue Omar Mokhtar, Drissia I 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 36 82",
+    "mapLink": " https://www.google.com/maps/place/35.75834750543545,-5.814792663351021 "
+  },
+  {
+    "name": "Pharmacie MABROUKI",
+    "address": "16, Avenue Moulay Ali Chérif, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 88 78",
+    "mapLink": " https://www.google.com/maps/place/35.75405978309755,-5.8135358507297585 "
+  },
+  {
+    "name": "Pharmacie MADRID",
+    "address": "3, Quartier Jamaà, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 09 01",
+    "mapLink": " https://www.google.com/maps/place/35.752640948432926,-5.821982455203836 "
+  },
+  {
+    "name": "Pharmacie MAGHREB",
+    "address": "56, Rue de la Liberté  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 35 73",
+    "mapLink": " https://www.google.com/maps/place/35.782646718640066,-5.812840267898259 "
+  },
+  {
+    "name": "Pharmacie MAHA",
+    "address": "Route Principale, El Mers 2 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 14 65",
+    "mapLink": " https://www.google.com/maps/place/35.736237056172634,-5.821795988560513 "
+  },
+  {
+    "name": "Pharmacie MAKARIM",
+    "address": "265, Route Sidi Driss 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 51 18",
+    "mapLink": " https://www.google.com/maps/place/35.741995688839346,-5.831020358779485 "
+  },
+  {
+    "name": "Pharmacie MALABATA",
+    "address": "Avenue Med VI, Rés. Al Hanae  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 64 84",
+    "mapLink": " https://www.google.com/maps/place/ 35.7845870346332 , -5.807893271193998   "
+  },
+  {
+    "name": "Pharmacie AL ISSRAE",
+    "address": "Hay Benkirane, Route El Oued 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 93 55",
+    "mapLink": " https://www.google.com/maps/place/35.75856276600286,-5.786990547740834 "
+  },
+  {
+    "name": "Pharmacie AL JAMAE",
+    "address": "Avenue Royaume d'Arabie Saoudite, Bir Chifa 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 64 76",
+    "mapLink": " https://www.google.com/maps/place/35.74310894430119,-5.820468811308718 "
+  },
+  {
+    "name": "Pharmacie AL KANTARA",
+    "address": "Al Kantara de Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 94 86",
+    "mapLink": " https://www.google.com/maps/place/35.75866243110257,-5.821349803442648 "
+  },
+  {
+    "name": "Pharmacie Al Karam",
+    "address": "Azib Abkiou, Route de Tetouan Mghougha 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 83 06",
+    "mapLink": " https://www.google.com/maps/place/ 35.72760580232139 , -5.768387875873259   "
+  },
+  {
+    "name": "Pharmacie AL KAWACIM",
+    "address": "Route Rahrah, Complexe Kawasim Bloc 2, Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 11 32",
+    "mapLink": " https://www.google.com/maps/place/35.765544,-5.8550437 "
+  },
+  {
+    "name": "Pharmacie AL KAWTHAR",
+    "address": "Avenue des FAR 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 08 83",
+    "mapLink": " https://www.google.com/maps/place/35.74497249587813,-5.839318000630705 "
+  },
+  {
+    "name": "Pharmacie AL KHAIR",
+    "address": "7, Rue Bendibane,  Quartier Bouiar 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 06 56",
+    "mapLink": " https://www.google.com/maps/place/35.74986141675835,-5.82077355888671 "
+  },
+  {
+    "name": "Pharmacie AL KODSS",
+    "address": "Rue Mansour Ibn Abi Amir, Drissia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 33 12",
+    "mapLink": " https://www.google.com/maps/place/35.76244192984272,-5.806588181788186 "
+  },
+  {
+    "name": "Pharmacie Al madina",
+    "address": "Complexe Belbachir 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 38 05 50",
+    "mapLink": " https://www.google.com/maps/place/ 35.76729548072418 , -5.852811224345406   "
+  },
+  {
+    "name": "Pharmacie AL MADKHAL AL KARIM",
+    "address": "Rue Des Abattoires, Immeuble Monopolio B 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 07 88",
+    "mapLink": " https://www.google.com/maps/place/35.76970904093521,-5.789436671992438 "
+  },
+  {
+    "name": "Pharmacie AL MAJD",
+    "address": "307, Lots Majd 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 16 84",
+    "mapLink": " https://www.google.com/maps/place/35.745460065517264,-5.7981529802784335 "
+  },
+  {
+    "name": "Pharmacie AL MARSA",
+    "address": "Quartier Espagnole, Rés. Marina  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 35 59",
+    "mapLink": " https://www.google.com/maps/place/35.78125654992524,-5.807924566298074 "
+  },
+  {
+    "name": "Pharmacie TAJ-EDDINE",
+    "address": "En face de marjan market, Branes 90000 TANGER - Maroc",
+    "telephone": "+212 05 50 11 39 06",
+    "mapLink": " https://www.google.com/maps/place/35.766269999156364,-5.834935962418979 "
+  },
+  {
+    "name": "Pharmacie Tanger Ville",
+    "address": "Quartier Bni Touzine, Lotissement 906 90090 TANGER - Maroc",
+    "telephone": "+212 05 31 06 83 23",
+    "mapLink": " https://www.google.com/maps/place/35.73466900800643,-5.839651823043823 "
+  },
+  {
+    "name": "Pharmacie Tanja Al Koubra",
+    "address": "Avenue Moulay Rachid 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 42 27 05",
+    "mapLink": " https://www.google.com/maps/place/35.75241218877176,-5.852128700379694 "
+  },
+  {
+    "name": "Pharmacie TANJA BALIA",
+    "address": "Route Principale Malabata, Tanja Balia  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 35 17",
+    "mapLink": " https://www.google.com/maps/place/35.77171616852314,-5.769480674724048 "
+  },
+  {
+    "name": "Pharmacie Tanmia",
+    "address": "Immeuble 1, Route de Tétouan, Complexe Atanmia, Nr. 3 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 68 39",
+    "mapLink": " https://www.google.com/maps/place/35.737226446495335,-5.7656044122957155 "
+  },
+  {
+    "name": "Pharmacie TARIK AL MOUJAHIDINE",
+    "address": "Hay El Moujahidine, Résidence Omar, Bloc Nr.24 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 40 79",
+    "mapLink": " https://www.google.com/maps/place/35.77005453896456,-5.8437667048169235 "
+  },
+  {
+    "name": "Pharmacie TARIK IBN ZIAD",
+    "address": "51, Avenue Mohamed V ( Place des Nations) 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 31 57",
+    "mapLink": " https://www.google.com/maps/place/35.777154108923526,-5.804680856029529 "
+  },
+  {
+    "name": "Pharmacie TINGIS",
+    "address": "1, Avenue Imam Mouslim, Dradeb Ain Hayyani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 36 35",
+    "mapLink": " https://www.google.com/maps/place/35.785525739416045,-5.825599199163678 "
+  },
+  {
+    "name": "Pharmacie TOUZANI",
+    "address": "41, Route de Tétouan, Lot. Dorilla  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 08 46",
+    "mapLink": " https://www.google.com/maps/place/35.758388987611696,-5.7931230060858185 "
+  },
+  {
+    "name": "Pharmacie Trial Atlas",
+    "address": "Hay Moudjahidines, Asspiranssa 90040 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/ 35.76762545132599 , -5.839104652404785   "
+  },
+  {
+    "name": "Pharmacie Universite",
+    "address": "Route Boukhalef , Université Abdelmalek Essaadi 90090 TANGER - Maroc",
+    "telephone": "+212 05 39 39 34 25",
+    "mapLink": " https://www.google.com/maps/place/35.733898055879735,-5.884570951481237 "
+  },
+  {
+    "name": "Pharmacie VAL FLEURI",
+    "address": "Avenue Moulay Rachid, Hôpital Mohamed V 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 23 81",
+    "mapLink": " https://www.google.com/maps/place/ 35.77671109001075 , -5.828037603330095   "
+  },
+  {
+    "name": "Pharmacie El Harrarine",
+    "address": "Quartier El Harrarine Lot. 2874 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 48 58",
+    "mapLink": " https://www.google.com/maps/place/ 35.72898833201841 , -5.839125962072081   "
+  },
+  {
+    "name": "Pharmacie EL HEKMA",
+    "address": "3, Rue Salmane Farissi, Lot Drissia I  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 05 93",
+    "mapLink": " https://www.google.com/maps/place/ 35.759259755818825 , -5.8046849958040685   "
+  },
+  {
+    "name": "Pharmacie El Houda",
+    "address": "28 Bis, Rue Ali Iraki, Souani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 62 66",
+    "mapLink": " https://www.google.com/maps/place/ 35.7718280065095 , -5.826426858967026   "
+  },
+  {
+    "name": "Pharmacie EL KINDY",
+    "address": "136, Avenue Harroun Errachid 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 94 42",
+    "mapLink": " https://www.google.com/maps/place/35.77299658683559,-5.821955979783377 "
+  },
+  {
+    "name": "Pharmacie EL MERS",
+    "address": "Lot. El Mers 2, Dhar kanfoud 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 52 02",
+    "mapLink": " https://www.google.com/maps/place/35.735875059109766,-5.8256964361479815 "
+  },
+  {
+    "name": "Pharmacie El Mesnaoui",
+    "address": "Sidi Driss Mers Achenad 90090 TANGER - Maroc",
+    "telephone": "+212 05 39 30 72 30",
+    "mapLink": " https://www.google.com/maps/place/ 35.73475827439813 , -5.827431678771973   "
+  },
+  {
+    "name": "Pharmacie El Moufid",
+    "address": "Avenue Ahlen, Zemmouri II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 73 41",
+    "mapLink": " https://www.google.com/maps/place/ 35.747064204000964 , -5.833524768669122   "
+  },
+  {
+    "name": "Pharmacie El Yamouni",
+    "address": "8, Quartier Chatt, Nr. 3,  Tanja Balia 90000  - Maroc",
+    "telephone": "+212 06 64 02 60 41",
+    "mapLink": " https://www.google.com/maps/place/ 35.767107483366196 , -5.769796371459961   "
+  },
+  {
+    "name": "Pharmacie ERRADI",
+    "address": "3, Zemmouri 2, Résidence Amine 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 77 44",
+    "mapLink": " https://www.google.com/maps/place/ 35.74861371556058 , -5.837789014755887   "
+  },
+  {
+    "name": "Pharmacie Europharm",
+    "address": "520, Avenue Al Qods, Hay Bir Ghazi 90000 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/ 35.716938459089626 , -5.804548361540492   "
+  },
+  {
+    "name": "Pharmacie FADILI",
+    "address": "10, Hay Berouaka, Nr.18, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 44 66",
+    "mapLink": " https://www.google.com/maps/place/ 35.75137858274791 , -5.824099854085171   "
+  },
+  {
+    "name": "Pharmacie FARES",
+    "address": "34 Bis, Avenue Abdesslam Ben Bouhout  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 64 69",
+    "mapLink": " https://www.google.com/maps/place/ 35.75532954601321 , -5.795037865517141   "
+  },
+  {
+    "name": "Pharmacie  El Yousr",
+    "address": "32, Avenue  Mohamed V 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 32 23 17",
+    "mapLink": " https://www.google.com/maps/place/  35.778743546324414  ,  -5.808224654619494     "
+  },
+  {
+    "name": "Pharmacie 6 NOVEMBRE",
+    "address": "Avenue des FAR, Rés. Marjane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 20 07",
+    "mapLink": " https://www.google.com/maps/place/35.74537684277094,-5.847724532875532 "
+  },
+  {
+    "name": "Pharmacie ABAS SEBTI",
+    "address": "169, Rue Ibn Batouta 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 30 72",
+    "mapLink": " https://www.google.com/maps/place/35.767727698282954,-5.828703529383311 "
+  },
+  {
+    "name": "Pharmacie ABBES",
+    "address": "88 Bis, Azib Hadj Kadour, Quartier El Aouina 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 77 92",
+    "mapLink": " https://www.google.com/maps/place/35.75614698331481,-5.843950111177312 "
+  },
+  {
+    "name": "Pharmacie Abdelkarim El Khattabi",
+    "address": "61, Avenue Bir Anzarane, 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 22 70",
+    "mapLink": " https://www.google.com/maps/place/ 35.24426314993833 , -3.935445360839367   "
+  },
+  {
+    "name": "Pharmacie Abdelmjid Atia",
+    "address": "Hajr Asfar 90100 TANGER - Maroc",
+    "telephone": "+212 07 71 94 72 36",
+    "mapLink": " https://www.google.com/maps/place/ 35.72792111763932 , -5.787977053545061   "
+  },
+  {
+    "name": "Pharmacie Achakkar",
+    "address": "Route Achakkar, Hay Ahmmar 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 81 10 +212 06 18 14 01 04",
+    "mapLink": " https://www.google.com/maps/place/35.74486328050129,-5.884531681152794 "
+  },
+  {
+    "name": "Pharmacie ACHENAD",
+    "address": "Avenue Sidi Driss, Arrondissement 21 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 63 03",
+    "mapLink": " https://www.google.com/maps/place/35.7404961811758,-5.828866791284126 "
+  },
+  {
+    "name": "Pharmacie Achifae",
+    "address": "1, Avenue Abbas Massaadi 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 06 55",
+    "mapLink": " https://www.google.com/maps/place/ 35.24788734769871 , -3.9364076033234596   "
+  },
+  {
+    "name": "Pharmacie ACHOUROUK",
+    "address": "1, Rue 60, Bendibane, Hay Haj Mokhiar  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 23 36",
+    "mapLink": " https://www.google.com/maps/place/35.748724862712585,-5.8238844142717925 "
+  },
+  {
+    "name": "Pharmacie Adam",
+    "address": "880, Khandaq El Ouard 90000 TANGER - Maroc",
+    "telephone": "+212 06 63 04 84 88",
+    "mapLink": " https://www.google.com/maps/place/35.73212427822322,-5.788312354655532 "
+  },
+  {
+    "name": "Pharmacie AFILAL",
+    "address": "30, Avenue Allal Fassi, Belle Vue 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 60 87",
+    "mapLink": " https://www.google.com/maps/place/35.761925775327505,-5.799736196339257 "
+  },
+  {
+    "name": "Pharmacie Ward Louama",
+    "address": "Lotissement 9305, Khandaq AL Ward  90000 TANGER - Maroc",
+    "telephone": "+212 06 24 44 70 80",
+    "mapLink": " https://www.google.com/maps/place/35.73040411903433,-5.785014433557798 "
+  },
+  {
+    "name": "Pharmacie WISSAL",
+    "address": "Moujamàa Al Hassani, Rés Bait Atiq 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 42 30",
+    "mapLink": " https://www.google.com/maps/place/35.72302427434331,-5.854630780140021 "
+  },
+  {
+    "name": "Pharmacie Yamania",
+    "address": "139, Avenue des Far, Résidence Yamani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 00 42",
+    "mapLink": " https://www.google.com/maps/place/ 35.750571830740334 , -5.838960296992501   "
+  },
+  {
+    "name": "Pharmacie YASSINE",
+    "address": "20, Rue d'Agadir, Val Fleuri 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 88 68",
+    "mapLink": " https://www.google.com/maps/place/35.76971363692807,-5.828187780684596 "
+  },
+  {
+    "name": "Pharmacie ZAHARA",
+    "address": "Avenue Zahara, Rue 41, El Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 09 70",
+    "mapLink": " https://www.google.com/maps/place/35.74071210155333,-5.8011705632842245 "
+  },
+  {
+    "name": "Pharmacie ZAOUDIA",
+    "address": "42, Rue Chouhada, Zaoudia Béni Makada Sud 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 12 39",
+    "mapLink": " https://www.google.com/maps/place/35.755641479170826,-5.816809186168975 "
+  },
+  {
+    "name": "Pharmacie ZEMZEM",
+    "address": "Lot. Khair, Hay Bourabaat, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 00 29",
+    "mapLink": " https://www.google.com/maps/place/35.746967650291886,-5.820417091376841 "
+  },
+  {
+    "name": "Pharmacie ZEROUAL",
+    "address": "67, Rue de Fés 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 35 37",
+    "mapLink": " https://www.google.com/maps/place/35.775994129557915,-5.814043545983495 "
+  },
+  {
+    "name": "Pharmacie ZINEB",
+    "address": "45, Avenue Aicha Al Moussafir, Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 25 34",
+    "mapLink": " https://www.google.com/maps/place/35.735698717260064,-5.806289871782726 "
+  },
+  {
+    "name": "Pharmacie ZONE INDUSTRIELLE",
+    "address": "Route de Tétouan, Mghogha Kebira  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 30 63",
+    "mapLink": " https://www.google.com/maps/place/35.745215112074725,-5.782301559578935 "
+  },
+  {
+    "name": "Pharmacie Zouhir",
+    "address": "231,Rue Zaidi , lotissement  Ennor , Hay Mghogha Sghira 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 06 96 09",
+    "mapLink": " https://www.google.com/maps/place/  ,    "
+  },
+  {
+    "name": "Pharmacie ZOUITINA",
+    "address": "Quartier Farah Nr.52,  Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 25 51",
+    "mapLink": " https://www.google.com/maps/place/35.73453754210364,-5.810084900648709 "
+  },
+  {
+    "name": "Pharmacie AL MASJID",
+    "address": "Avenue des FAR, Résidence Al Khalij, Azib Haj Kadour 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 03 79",
+    "mapLink": " https://www.google.com/maps/place/35.7520581302614,-5.836960528861523 "
+  },
+  {
+    "name": "Pharmacie AL MOUJAHIDINE",
+    "address": "54, Rue Al Moujahidine 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 83 36",
+    "mapLink": " https://www.google.com/maps/place/35.77768630164988,-5.836754341513926 "
+  },
+  {
+    "name": "Pharmacie AL OUROUD MALIKA",
+    "address": "Lot. Al Ouaroud, Houmat Soussi,  Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 63 82 51 35 7",
+    "mapLink": " https://www.google.com/maps/place/35.726186936856685,-5.8091281739489045 "
+  },
+  {
+    "name": "Pharmacie AL RAHA",
+    "address": "115, Avenue Tarik Ibn Ziad 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 33 86",
+    "mapLink": " https://www.google.com/maps/place/35.76609387483556,-5.804969313846183 "
+  },
+  {
+    "name": "Pharmacie AL RAHMA",
+    "address": "140 B, Route de Tétouan, Mghogha Sghira 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 89 39",
+    "mapLink": " https://www.google.com/maps/place/35.75256552449601,-5.784426179017471 "
+  },
+  {
+    "name": "Pharmacie AL WAFA",
+    "address": "90, Avenue Hassan II, Angle M'barek El Bekkai 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 34 49",
+    "mapLink": " https://www.google.com/maps/place/ 35.24002567795906 , -3.9348364993929863   "
+  },
+  {
+    "name": "Pharmacie AL YAKINE",
+    "address": "Route Al Aouama, Ronpoint Dar Tounsi 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 20 62",
+    "mapLink": " https://www.google.com/maps/place/ 35.75234978364361 , -5.796437296837462   "
+  },
+  {
+    "name": "Pharmacie AL YASMINE",
+    "address": "Rue Ezzahraoui Mohamed 90100 TANGER - Maroc",
+    "telephone": "+212 05 39 31 89 09",
+    "mapLink": " https://www.google.com/maps/place/ 35.757145978495764 , -5.840580067024227   "
+  },
+  {
+    "name": "Pharmacie ALAMI",
+    "address": "8, Avenue Ibn Zakour Résidénce Souani, Branes I 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 77 25",
+    "mapLink": " https://www.google.com/maps/place/35.76056142742908,-5.825685192519488 "
+  },
+  {
+    "name": "Pharmacie AlHilal",
+    "address": "105, Avenue Sidi Abid 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 00 33",
+    "mapLink": " https://www.google.com/maps/place/  35.252000928006154  ,  -3.9343493431806564     "
+  },
+  {
+    "name": "Pharmacie ALIDAA",
+    "address": "Ard dawla, à côte école khaled ibn Al walid 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 71 51",
+    "mapLink": " https://www.google.com/maps/place/35.758166325144714,-5.807510474516768 "
+  },
+  {
+    "name": "Pharmacie ALMANZAH",
+    "address": "20, Rue Mohamed Hassan Ouazzani 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 84 02 82",
+    "mapLink": " https://www.google.com/maps/place/ 35.24487157523155 , -3.9335520565509796   "
+  },
+  {
+    "name": "Pharmacie AOUAMA CHARKIA",
+    "address": "Rue Al Kods, Hay loudaya Zaouia, Aouama Charkia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 56 33",
+    "mapLink": " https://www.google.com/maps/place/ 35.72400473639222 , -5.799558606359869   "
+  },
+  {
+    "name": "Pharmacie AOUAMA GHARBIA",
+    "address": "700, Avenue Kods, Aouama Gharbia  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 62 36",
+    "mapLink": " https://www.google.com/maps/place/ 35.72604204963572 , -5.803751320613978   "
+  },
+  {
+    "name": "Pharmacie ARIHA",
+    "address": "31, Avenue Moulay Youssef 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 34 01 33",
+    "mapLink": " https://www.google.com/maps/place/ 35.77079446832495 , -5.811316595985561   "
+  },
+  {
+    "name": "Pharmacie ARRABIE",
+    "address": "716, Route Moulay Rachid, Satfilage 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 84 48",
+    "mapLink": " https://www.google.com/maps/place/35.754147250979834,-5.845426849548859 "
+  },
+  {
+    "name": "Pharmacie ARRAZI",
+    "address": "Avenue Moulay Rachid,  Résidence Golden Beach 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 58 73",
+    "mapLink": " https://www.google.com/maps/place/ 35.76361536028572 , -5.837603375662795   "
+  },
+  {
+    "name": "Pharmacie ARREDA",
+    "address": "Lot. Mediterrannée Nr.1262, Tanja Ballia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 12 82",
+    "mapLink": " https://www.google.com/maps/place/ 35.76276307425187 , -5.760420547170432   "
+  },
+  {
+    "name": "Pharmacie Assabr",
+    "address": "Complexe Assanawbar, Tanja Balia 90001 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/ 35.758070537622075 , -5.760530493740261   "
+  },
+  {
+    "name": "Pharmacie ASSAFWA",
+    "address": "Route Rahrah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 29 18",
+    "mapLink": " https://www.google.com/maps/place/ 35.76571718380093 , -5.85882171801652   "
+  },
+  {
+    "name": "Pharmacie ASSALAM",
+    "address": "3, Rue 48, Jirari II, El Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 06 00",
+    "mapLink": " https://www.google.com/maps/place/ 35.751610776457966 , -5.811503630720057   "
+  },
+  {
+    "name": "Pharmacie Assalama",
+    "address": "Lotissement 1262, Achenad 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 03 87 88",
+    "mapLink": " https://www.google.com/maps/place/ 35.73697023453514 , -5.827343098917481   "
+  },
+  {
+    "name": "Pharmacie ASWAK ASSALAM",
+    "address": "Centre Commercial Aswak Assalam, Rondpoint Ziaten 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 35 46",
+    "mapLink": " https://www.google.com/maps/place/ 35.73817317790453 , -5.873610772635981   "
+  },
+  {
+    "name": "Pharmacie ATLAS",
+    "address": "16, Rue Ibn Ardoun, Nouveau Quartier casabarata 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 18 40",
+    "mapLink": " https://www.google.com/maps/place/ 35.76507955725367 , -5.827868784426217   "
+  },
+  {
+    "name": "Pharmacie BEL AIR",
+    "address": "17, Rue Bel Air Nr.32 B 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 87 34",
+    "mapLink": " https://www.google.com/maps/place/ 35.7740652158387 , -5.826340196330792   "
+  },
+  {
+    "name": "Pharmacie BELKACEM",
+    "address": "74, Avenue B Bis, Jirari Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 83 71",
+    "mapLink": " https://www.google.com/maps/place/ 35.747406787519914 , -5.811289330696113   "
+  },
+  {
+    "name": "Pharmacie BEN ABBOU",
+    "address": "Lot. Safir Nr. 27, Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 83 90",
+    "mapLink": " https://www.google.com/maps/place/ 35.75001777092549 , -5.854998137543275   "
+  },
+  {
+    "name": "Pharmacie BEN ALLAL",
+    "address": "127, Avenue Fatima-Zohra, Drissia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 32 40",
+    "mapLink": " https://www.google.com/maps/place/   35.7552974150278   ,   -5.8021959565792836       "
+  },
+  {
+    "name": "Pharmacie BEN TAEIB",
+    "address": "24 B, Avenue  Moulay  Abdelhafid 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 60 15",
+    "mapLink": " https://www.google.com/maps/place/35.76762958326021,-5.817917793386749 "
+  },
+  {
+    "name": "Pharmacie Ben Yaich",
+    "address": "Branes kdima, Ziaten 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 86 80",
+    "mapLink": " https://www.google.com/maps/place/35.74763662663442,-5.862652123588568 "
+  },
+  {
+    "name": "Pharmacie BENAYAD",
+    "address": "Mrah Tanja Balia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 34 26 35",
+    "mapLink": " https://www.google.com/maps/place/ 35.77033017445399 , -5.7719405575250855   "
+  },
+  {
+    "name": "Pharmacie BENDAHMANE",
+    "address": "Quartier Hadj Mokhtar, Quartier Seddam, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 81 52",
+    "mapLink": " https://www.google.com/maps/place/35.74724602665006,-5.825833254095516 "
+  },
+  {
+    "name": "Pharmacie BENDIBANE",
+    "address": "1, Rue Topo-Rabat, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 37 00",
+    "mapLink": " https://www.google.com/maps/place/ 35.75592746808031 , -5.8207556069761255   "
+  },
+  {
+    "name": "Pharmacie BENI MAKADA",
+    "address": "152, Avenue Mly Slimane, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 18 38",
+    "mapLink": " https://www.google.com/maps/place/35.75897661410139,-5.812559098434397 "
+  },
+  {
+    "name": "Pharmacie BENI OURIAGHEL",
+    "address": "2, Rue 149, Hay Béni Ouriaghel II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 52 17",
+    "mapLink": " https://www.google.com/maps/place/ 35.745208533297834 , -5.83007286835033   "
+  },
+  {
+    "name": "Pharmacie Bennani Tarik Achakar",
+    "address": "Route Achakar 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 93 92 13",
+    "mapLink": " https://www.google.com/maps/place/35.740369397796556,-5.877881436510734 "
+  },
+  {
+    "name": "Pharmacie BILADI",
+    "address": "Rue 2, Nr.2, Hay Moujahidine 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 32 81",
+    "mapLink": " https://www.google.com/maps/place/ 35.76719766028687 , -5.848092627604574   "
+  },
+  {
+    "name": "Pharmacie BIR CHIFAE",
+    "address": "Avenue Al Mamlak Al Arabia Saoudia 90000 TANGER - Maroc",
+    "telephone": "+212 07 00 83 53 13",
+    "mapLink": " https://www.google.com/maps/place/35.74293073675329,-5.82537107389429 "
+  },
+  {
+    "name": "Pharmacie Bir El Ghazi",
+    "address": "Hay Bir El Ghazi, Alaouama 90080 TANGER - Maroc",
+    "telephone": "+212 06 62 15 95 62",
+    "mapLink": " https://www.google.com/maps/place/ 35.71359934139698 , -5.810667872428894   "
+  },
+  {
+    "name": "Pharmacie BISMIALLAH",
+    "address": "12, Avenue Driss I, Résidence El Kheir 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 10 10",
+    "mapLink": " https://www.google.com/maps/place/  35.77154262941158  ,  -5.799343580817501     "
+  },
+  {
+    "name": "Pharmacie Bni Touzine",
+    "address": "Route de Rabat 90090 TANGER - Maroc",
+    "telephone": "+212 05 39 30 70 66",
+    "mapLink": " https://www.google.com/maps/place/ 35.73606199228303 , -5.843643272324357   "
+  },
+  {
+    "name": "Pharmacie BOUARRAQUIA",
+    "address": "34, Av Hassan II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 58 85",
+    "mapLink": " https://www.google.com/maps/place/35.782583015494055,-5.818058091538205 "
+  },
+  {
+    "name": "Pharmacie BOUBANA",
+    "address": "138 Bis, Route Rahrah, à côté du Stade Cricket 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 53 60",
+    "mapLink": " https://www.google.com/maps/place/35.771599634105115,-5.860835054437704 "
+  },
+  {
+    "name": "Pharmacie Bouhout Al Aouama",
+    "address": "70, Lotissement Farah, Al Aouama 90080 TANGER - Maroc",
+    "telephone": "+212 05 39 95 70 79",
+    "mapLink": " https://www.google.com/maps/place/ 35.73404497288626 , -5.808857865218362   "
+  },
+  {
+    "name": "Pharmacie BOUKHALEF",
+    "address": "Avenue Moulay Rachid, Al Irfane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 53 05",
+    "mapLink": " https://www.google.com/maps/place/  35.735577286409566  ,  -5.879562122464421     "
+  },
+  {
+    "name": "Pharmacie Boutour",
+    "address": "Complexe Al Botour , Tanja Balia 90000 TANGER - Maroc",
+    "telephone": "+212 06 22 02 99 32",
+    "mapLink": " # "
+  },
+  {
+    "name": "Pharmacie BRANES",
+    "address": "21, Avenue Fayçal Ibn Abdelaziz, Casabarata 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 19 71",
+    "mapLink": " https://www.google.com/maps/place/   35.76284256331998   ,   -5.824839004331854       "
+  },
+  {
+    "name": "Pharmacie BRANES II",
+    "address": "Avenue, Ibn Abi Zare, Branes II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 63 44",
+    "mapLink": " https://www.google.com/maps/place/ 35.76144960899047 , -5.836073898444747   "
+  },
+  {
+    "name": "Pharmacie FAYNA",
+    "address": "31, Avenue Forêt Maamoura, Branes II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 18 59",
+    "mapLink": " https://www.google.com/maps/place/ 35.7606107664915 , -5.83965284443431   "
+  },
+  {
+    "name": "Pharmacie Fleming",
+    "address": "Immeuble 6, Complexe Résidentiéls les Fleurs, RDC, Nr. 1 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 08 92",
+    "mapLink": " https://www.google.com/maps/place/ 35.744474596124874 , -5.854783342240921   "
+  },
+  {
+    "name": "Pharmacie GALERIE ANDALUCIA",
+    "address": "Galerie Andalucia, Nr.19, Boubana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 21 39",
+    "mapLink": " https://www.google.com/maps/place/ 35.77873510828076 , -5.847663817153105   "
+  },
+  {
+    "name": "Pharmacie GDE PHCIE ASSIA",
+    "address": "Route Principale, Ahlan 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 24 71",
+    "mapLink": " https://www.google.com/maps/place/ 35.74414316606155 , -5.833594981685065   "
+  },
+  {
+    "name": "Pharmacie GHAILANE",
+    "address": "41, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 59 59",
+    "mapLink": " https://www.google.com/maps/place/ 35.75162504329088 , -5.818591369080512   "
+  },
+  {
+    "name": "Pharmacie GIBRALTAR",
+    "address": "7, Route de Malabata, Sania Al Jadida  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 32 59 31",
+    "mapLink": " https://www.google.com/maps/place/ 35.7795459620536 , -5.756853315253153   "
+  },
+  {
+    "name": "Pharmacie GRANADA",
+    "address": "18, Rue Teheran 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 07 72",
+    "mapLink": " https://www.google.com/maps/place/35.77591246198762,-5.807902413225976 "
+  },
+  {
+    "name": "Pharmacie GRANADA Al HOCEIMA",
+    "address": "12, Rue Madagascar 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 84 02 04",
+    "mapLink": " https://www.google.com/maps/place/ 35.248472746132464 , -3.9348535984754562   "
+  },
+  {
+    "name": "Pharmacie Grand Maghrib",
+    "address": "Route Al Aouama, Lotissement Andalouss, Nr. 57 90080 TANGER - Maroc",
+    "telephone": "+212 05 39 35 22 46",
+    "mapLink": " https://www.google.com/maps/place/35.72823920809751,-5.806119688049193 "
+  },
+  {
+    "name": "Pharmacie Grande Pharmacie Rif",
+    "address": "17, Avenue Moulay Ali Chérif, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 37 31",
+    "mapLink": " https://www.google.com/maps/place/ 35.75365773871541 , -5.809917163211717   "
+  },
+  {
+    "name": "Pharmacie HADIA",
+    "address": "Hay Rahrah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 30 79",
+    "mapLink": " https://www.google.com/maps/place/35.76283011740228,-5.860841460465768 "
+  },
+  {
+    "name": "Pharmacie HAMZA",
+    "address": "3, Rue yemane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 25 74",
+    "mapLink": " https://www.google.com/maps/place/35.748011447287155,-5.8023773182740825 "
+  },
+  {
+    "name": "Pharmacie DOHA",
+    "address": "13, Rue Principal, Hay Doha 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 03 32",
+    "mapLink": " https://www.google.com/maps/place/35.75000000,-5.80000019 "
+  },
+  {
+    "name": "Pharmacie DOHA LOUAMA",
+    "address": "Route Al Aouama  90000 TANGER - Maroc",
+    "telephone": "+212 05 50 11 13 80",
+    "mapLink": " https://www.google.com/maps/place/  35.72413972172867  ,  -5.806867801821175     "
+  },
+  {
+    "name": "Pharmacie DRISSIA",
+    "address": "42, Avenue Tarik Ibn Ziad, Drissia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 64 15",
+    "mapLink": " https://www.google.com/maps/place/  35.762379567060954  ,  -5.803467618477649     "
+  },
+  {
+    "name": "Pharmacie DU PARC",
+    "address": "Avenue Moulay Slimane  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 66 29",
+    "mapLink": " https://www.google.com/maps/place/35.76289345054088,-5.812719189304516 "
+  },
+  {
+    "name": "Pharmacie Ech-chaymae",
+    "address": "Badriouine, Complexe Nakhil GH 1 M° 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 05 33 00",
+    "mapLink": " https://www.google.com/maps/place/  35.71748964094051  ,  -5.875567085627755     "
+  },
+  {
+    "name": "Pharmacie EL ALIA",
+    "address": "37, Rue Ibn Kadi, El Alia place des Arènes 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 62 79",
+    "mapLink": " https://www.google.com/maps/place/35.763026906543445,-5.793471653019834 "
+  },
+  {
+    "name": "Pharmacie EL AMILE",
+    "address": "73, Rue Moussa Ben Noussair 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 11 23",
+    "mapLink": " https://www.google.com/maps/place/35.7783130613466,-5.812775974670737 "
+  },
+  {
+    "name": "Pharmacie EL AOUAMA",
+    "address": "31, Avenue Royaume Arabie Saoudite 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 98 08",
+    "mapLink": " https://www.google.com/maps/place/ 35.74331367449867 , -5.799758232912212   "
+  },
+  {
+    "name": "Pharmacie El Attabi",
+    "address": "Avenue Kuwait, Route De Aouama, Station Taxi de Placa 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 73 63",
+    "mapLink": " https://www.google.com/maps/place/  35.73691045582572  ,  -5.803027120025003     "
+  },
+  {
+    "name": "Pharmacie El Attifi",
+    "address": "Mghogha Sghira, Houmat Arbaine, Près de Centre de Santé Mghogha 90000 TANGER - Maroc",
+    "telephone": "+212 06 62 06 47 07",
+    "mapLink": " https://www.google.com/maps/place/35.749698930993866,-5.7750003408233725 "
+  },
+  {
+    "name": "Pharmacie EL GHANDOURI",
+    "address": "La Baie de Tanger 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 13 88",
+    "mapLink": " https://www.google.com/maps/place/35.78427171033636,-5.760257550834464 "
+  },
+  {
+    "name": "Pharmacie EL HADRI",
+    "address": "Sidi Driss Achnad 2, Bahraouien 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 55 55",
+    "mapLink": " https://www.google.com/maps/place/ 35.73703902876312 , -5.8233387702390305   "
+  },
+  {
+    "name": "Pharmacie MESNANA",
+    "address": "Quartier Mesnana, En face 11éme Arrondissement 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 34 30",
+    "mapLink": " https://www.google.com/maps/place/35.75480918393174,-5.854760314656298 "
+  },
+  {
+    "name": "Pharmacie METIOUI",
+    "address": "153, Avenue Mohamed V, Nejma 90000 TANGER - Maroc",
+    "telephone": "+212 39 94 42 88",
+    "mapLink": " https://www.google.com/maps/place/35.77479851049019,-5.798086369118662 "
+  },
+  {
+    "name": "Pharmacie MGHOGHA KBIRA",
+    "address": "Route de Tétouan, Mghogha Sghira 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 32 04",
+    "mapLink": " https://www.google.com/maps/place/35.75083211472611,-5.781048796931987 "
+  },
+  {
+    "name": "Pharmacie Mghogha Tabchicha",
+    "address": "24, Tabchicha Lotissement, Mghogha 90070 TANGER - Maroc",
+    "telephone": "+212 05 39 35 29 70",
+    "mapLink": " https://www.google.com/maps/place/ 35.74205901707669 , -5.770097262744149   "
+  },
+  {
+    "name": "Pharmacie MIKO",
+    "address": "Houmat lmrabet 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 44 78",
+    "mapLink": " https://www.google.com/maps/place/35.725050383834244,-5.813023057324875 "
+  },
+  {
+    "name": "Pharmacie MISTER-KHOUCH",
+    "address": "36, Avenue Anfa, Mister khouch 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 72 82",
+    "mapLink": " https://www.google.com/maps/place/35.773881296048074,-5.833002607341845 "
+  },
+  {
+    "name": "Pharmacie MIXTA MGHOUGHA",
+    "address": "52, Quartier Farah, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 25 51",
+    "mapLink": " https://www.google.com/maps/place/35.733030634267976,-5.763107530500865 "
+  },
+  {
+    "name": "Pharmacie MLY ALI CHERIF",
+    "address": "78, Avenue Moulay Ali Chérif, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 67 74",
+    "mapLink": " https://www.google.com/maps/place/35.75154573490962,-5.801937429971186 "
+  },
+  {
+    "name": "Pharmacie MODERNE",
+    "address": "32, Place du 9 Avril 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 17 90",
+    "mapLink": " https://www.google.com/maps/place/35.78406289103225,-5.812790650191214 "
+  },
+  {
+    "name": "Pharmacie MONCEF",
+    "address": "Avenue des FAR, Azib Haj kadour 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 11 40",
+    "mapLink": " https://www.google.com/maps/place/35.750506004677945,-5.8389508166010735 "
+  },
+  {
+    "name": "Pharmacie MOSQUE EL FATH",
+    "address": "Rue Labatoire, Hay Benkirane II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 90 26",
+    "mapLink": " https://www.google.com/maps/place/35.76402980781113,-5.783653769899827 "
+  },
+  {
+    "name": "Pharmacie MOUADAFINE",
+    "address": "1, Rue 70 Al  Wahda Watania, Quartier Boughaz 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 01 38",
+    "mapLink": " https://www.google.com/maps/place/35.75866653002276,-5.818486057533924 "
+  },
+  {
+    "name": "Pharmacie IBN AL ARABI",
+    "address": "Complexe zemmouri III Yousra A6, à côté Aswak Assalam 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 58 43",
+    "mapLink": " https://www.google.com/maps/place/35.74032160836256,-5.867806886686305 "
+  },
+  {
+    "name": "Pharmacie IBN ANNAFIS",
+    "address": "Avenue des FAR, Quartier El Mouwadefine   90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 81 25",
+    "mapLink": " https://www.google.com/maps/place/ 35.76147489425767 , -5.817103432896742   "
+  },
+  {
+    "name": "Pharmacie IBN BARRAJAN",
+    "address": "41 Bis, Avenue Cedres, Branes II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 82 71",
+    "mapLink": " https://www.google.com/maps/place/35.75785955169623,-5.8328763768149265 "
+  },
+  {
+    "name": "Pharmacie IBN BATOUTA",
+    "address": "134A , Rue Ibn Ardounn, Branes I 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 42 52",
+    "mapLink": " https://www.google.com/maps/place/35.76273015719859,-5.831954443485923 "
+  },
+  {
+    "name": "Pharmacie IBN KHALDOUN",
+    "address": "Lot. Al Majd, à côté Rés. Al Fajr  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 02 90",
+    "mapLink": " https://www.google.com/maps/place/35.74690783454487,-5.795583433757065 "
+  },
+  {
+    "name": "Pharmacie IBN KHATIB",
+    "address": "24 Dr.Faraj 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 31 03",
+    "mapLink": " https://www.google.com/maps/place/35.775396782648194,-5.819917368728247 "
+  },
+  {
+    "name": "Pharmacie IBN ROCHD",
+    "address": "134 Bis, Rue d'Anglettere, Ain Ktiouat 90010 TANGER - Maroc",
+    "telephone": "+212 05 39 93 18 55",
+    "mapLink": " https://www.google.com/maps/place/35.77828303675257,-5.819057126666816 "
+  },
+  {
+    "name": "Pharmacie IBN SINA",
+    "address": "124, Avenue Hassan II, Marchan 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 58 99",
+    "mapLink": " https://www.google.com/maps/place/35.78650901602496,-5.820708351304484 "
+  },
+  {
+    "name": "Pharmacie IBN TOUFAIL",
+    "address": "1, lot 23, Lot El Kheir, Bir Chifa 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 34 64",
+    "mapLink": " https://www.google.com/maps/place/35.74526373517962,-5.822358005104402 "
+  },
+  {
+    "name": "Pharmacie IBRAHIM AL KHALIL",
+    "address": "Complexe Ibrahim Al khalil, Grand Stadte 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 58 96",
+    "mapLink": " https://www.google.com/maps/place/35.746171065537226,-5.850869583686493 "
+  },
+  {
+    "name": "Pharmacie IFRIQUIA",
+    "address": "44, Avenue Mly. Ali Chérif, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 31 97",
+    "mapLink": " https://www.google.com/maps/place/35.752674309547096,-5.806875143035857 "
+  },
+  {
+    "name": "Pharmacie IMAM ALI",
+    "address": "Haoumat Soussi, Dhar Al Kanfoud, Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 44 01",
+    "mapLink": " https://www.google.com/maps/place/35.732368128823985,-5.8115119551838355 "
+  },
+  {
+    "name": "Pharmacie CHIFAE",
+    "address": "4 Bis, Avenue Moulay Rachid 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 57 86",
+    "mapLink": " https://www.google.com/maps/place/35.778819779111984,-5.82592352273176 "
+  },
+  {
+    "name": "Pharmacie CHORAFA",
+    "address": "Avenue Moulay Rachid, Résidence Al Kheir  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 11 34",
+    "mapLink": " https://www.google.com/maps/place/35.74775095450092,-5.858956579377996 "
+  },
+  {
+    "name": "Pharmacie Coeur de Tanger",
+    "address": "Tanja Balia, Complexe Gardenia Nr. 3 90000 TANGER - Maroc",
+    "telephone": "+212 05 83 17 90 00",
+    "mapLink": " https://www.google.com/maps/place/ 35.75999353190804 , -5.752028561715325   "
+  },
+  {
+    "name": "Pharmacie COMPLEXE AL BARAKA",
+    "address": "Magasin 10, Doha AL Barakka, Dhar AL Kanfoud 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 10 70",
+    "mapLink": " https://www.google.com/maps/place/ 35.731441565197535 , -5.818365839048003   "
+  },
+  {
+    "name": "Pharmacie COMPLEXE AL HASSANI",
+    "address": "Route des FAR, Complexe Al Hassani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 61 16",
+    "mapLink": " https://www.google.com/maps/place/ 35.73694103996178 , -5.855724756937049   "
+  },
+  {
+    "name": "Pharmacie COMPLEXE IRFANE II",
+    "address": "Route Achakkar, complexe Al Irfane 2 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 58 57",
+    "mapLink": " https://www.google.com/maps/place/35.74130979713455,-5.886768358743879 "
+  },
+  {
+    "name": "Pharmacie Dar al ihssan",
+    "address": "Lotissement Essalam1 90000 TANGER - Maroc",
+    "telephone": "+212 07 07 13 57 28",
+    "mapLink": " https://www.google.com/maps/place/  35.74272083090506  ,  -5.847516543750008     "
+  },
+  {
+    "name": "Pharmacie DAR D'BAGH",
+    "address": "34, Rue Dar D'bagh, Port Medina 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 92 92",
+    "mapLink": " https://www.google.com/maps/place/ 35.78541568669635 , -5.808900548887066   "
+  },
+  {
+    "name": "Pharmacie DAR TOUNSI",
+    "address": "146, Lot. Annahda, Dar Tounsi 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 29 48",
+    "mapLink": " https://www.google.com/maps/place/35.75263620732199,-5.798787670956074 "
+  },
+  {
+    "name": "Pharmacie DE TANGER",
+    "address": "Route de Tétouan, Complexe Amal III  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 48 08",
+    "mapLink": " https://www.google.com/maps/place/35.760275478779846,-5.7827686779292975 "
+  },
+  {
+    "name": "Pharmacie DHAR EL MERS",
+    "address": "Chate aloualidiya, 66, Tanja al balia 90000 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/ 35.76674714039449 , -5.76504972898163   "
+  },
+  {
+    "name": "Pharmacie Dina",
+    "address": "Immeuble A, Avenue Imam Mouslim, Résidence Bouzina, Nr. 1  90040 TANGER - Maroc",
+    "telephone": "+212 05 39 37 01 29 +212 06 65 20 01 77",
+    "mapLink": " https://www.google.com/maps/place/35.78601982453203,-5.833316475563038 "
+  },
+  {
+    "name": "Pharmacie Pasteur Al Hoceima",
+    "address": "09, Avenue Mohamed V 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 11 76",
+    "mapLink": " https://www.google.com/maps/place/ 35.240259258109596 , -3.9285561069846153   "
+  },
+  {
+    "name": "Pharmacie PERLE DE MEDITERRANEE",
+    "address": "Groupe Adoha avant kantarat Ouad Chatte, Tanja Balia  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 27 32",
+    "mapLink": " https://www.google.com/maps/place/35.76728956145331,-5.761118945647297 "
+  },
+  {
+    "name": "Pharmacie PHARDET",
+    "address": "147, Rue de Fes, Castilla 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 27 48",
+    "mapLink": " https://www.google.com/maps/place/35.7704091893558,-5.81430005399695 "
+  },
+  {
+    "name": "Pharmacie Pharmaceie Arimas",
+    "address": "Lotissement Arimas, Tanja Balia 90000 TANGER - Maroc",
+    "telephone": "+212 07 08 87 30 19",
+    "mapLink": " https://www.google.com/maps/place/ 35.76434322356451 , -5.759926326159676   "
+  },
+  {
+    "name": "Pharmacie Pharmacie 2000",
+    "address": "4, Avenue la Paix, Rés. Chourouk, Bloc B  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 32 34 58",
+    "mapLink": " https://www.google.com/maps/place/ 35.76894402150318 , -5.811611777970442   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Abi Houraira",
+    "address": "21, Avenue Abou Houraïra 20670 CASABLANCA - Maroc",
+    "telephone": "+212 05 22 38 33 75",
+    "mapLink": " https://www.google.com/maps/place/ 33.558451413476185 , -7.580272704362869   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Abi Regrag",
+    "address": "Rue 3, Bd. Oued Abi Raqraq 20220 CASABLANCA - Maroc",
+    "telephone": "+212 05 22 90 85 68",
+    "mapLink": " https://www.google.com/maps/place/33.564374064288415,-7.678672224283218 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Addoha",
+    "address": "Av. Stendhal, Mosquée Addoha, Cité Plateau 20390 CASABLANCA - Maroc",
+    "telephone": "+212 05 22 25 96 69",
+    "mapLink": " https://www.google.com/maps/place/   33.57028178246858   ,   -7.636208161711693       "
+  },
+  {
+    "name": "Pharmacie Pharmacie Aeroport Tanger",
+    "address": "Complexe Farah, Bloc 4, M11 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 10 04 +212 06 28 45 68 24",
+    "mapLink": " https://www.google.com/maps/place/35.72300092056038,-5.892051458358765 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Al Bouchra",
+    "address": "Hay al harrarin, Sidi Driss 20303 TANGER - Maroc",
+    "telephone": "+212 06 65 25 48 64",
+    "mapLink": " https://www.google.com/maps/place/35.72504154622622,-5.8356504510681235 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Al Moustakbal",
+    "address": "3, Route de Rabat, Complexe Al Moustakbal, Résidence Al Moustakbal, Bloc A 90100 TANGER - Maroc",
+    "telephone": "+212 05 39 31 31 42",
+    "mapLink": " https://www.google.com/maps/place/35.73372626171231,-5.868576765060425 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Anfas",
+    "address": "Route de Malabata, près Hotel Ibis 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 11 85",
+    "mapLink": " https://www.google.com/maps/place/ 35.77291458669887 , -5.781464464549264   "
+  },
+  {
+    "name": "Pharmacie Jebari",
+    "address": "Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 41 00",
+    "mapLink": " https://www.google.com/maps/place/35.75199344216977,-5.8662799905092395 "
+  },
+  {
+    "name": "Pharmacie JIHANE",
+    "address": "32 Route de Tétouan, Hay Tabchicha, Mghogha Kbira 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 01 98",
+    "mapLink": " https://www.google.com/maps/place/35.74186791518415,-5.7754302218414955 "
+  },
+  {
+    "name": "Pharmacie JIRARI",
+    "address": "77, Avenue Principale Jirari III, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 44 23",
+    "mapLink": " https://www.google.com/maps/place/35.74946129242723,-5.808608630635467 "
+  },
+  {
+    "name": "Pharmacie JNANE MARJANE",
+    "address": "Derriére centrale Commerciale Marjane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 11 56",
+    "mapLink": " https://www.google.com/maps/place/35.74766689448447,-5.845815130439634 "
+  },
+  {
+    "name": "Pharmacie JOSAFAT",
+    "address": "53, Avenue Hassan I 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 34 49",
+    "mapLink": " https://www.google.com/maps/place/35.785929608080274,-5.8162080430532415 "
+  },
+  {
+    "name": "Pharmacie KASBAH",
+    "address": "67, Rue Kasbah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 51 20",
+    "mapLink": " https://www.google.com/maps/place/35.78835915933961,-5.815220841749607 "
+  },
+  {
+    "name": "Pharmacie L'amitie",
+    "address": "14, Rue Rabat, Complexe 1, Al Irfane 3 90100 TANGER - Maroc",
+    "telephone": "+212 06 22 27 14 78",
+    "mapLink": " https://www.google.com/maps/place/ 35.80389222782607 , -5.817604064941406   "
+  },
+  {
+    "name": "Pharmacie LA FAMILLE",
+    "address": "Route El Moujahidine, Rési. Akbib 90000 TANGER - Maroc",
+    "telephone": "+212 05 50 09 12 37",
+    "mapLink": " https://www.google.com/maps/place/35.76649435435236,-5.843157559855927 "
+  },
+  {
+    "name": "Pharmacie La Gare",
+    "address": "Tanger Ville Railway Station  90070  - Maroc",
+    "telephone": "+212 05 39 30 19 32",
+    "mapLink": " https://www.google.com/maps/place/   35.77171684438132   ,   -5.786098837852478       "
+  },
+  {
+    "name": "Pharmacie La Gare Routière",
+    "address": "4, Résidence Saada (A COTÉ DE MOSQUÉE SAADA)  90100 TANGER - Maroc",
+    "telephone": "+212 06 07 51 16 29",
+    "mapLink": " https://www.google.com/maps/place/35.722913274154514,-5.861055850982666 "
+  },
+  {
+    "name": "Pharmacie La Grande Pharmacie Sara",
+    "address": "Lotissement Randa, Ahlen 90090 TANGER - Maroc",
+    "telephone": "+212 05 39 38 20 12",
+    "mapLink": " https://www.google.com/maps/place/35.73816445089045,-5.835684719751271 "
+  },
+  {
+    "name": "Pharmacie La Perle du Baughaz",
+    "address": "Route Ain Dalia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 13 35",
+    "mapLink": " https://www.google.com/maps/place/35.70922082379798,-5.808521234429575 "
+  },
+  {
+    "name": "Pharmacie RAHRAH",
+    "address": "789, Rahrah 90000 TANGER - Maroc",
+    "telephone": "+212 39 31 73 73",
+    "mapLink": " https://www.google.com/maps/place/35.76226358940758,-5.859273058316056 "
+  },
+  {
+    "name": "Pharmacie RAIHANI",
+    "address": "14, Rue AL Kortobi, Marchan 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 08 40",
+    "mapLink": " https://www.google.com/maps/place/  35.78872902648971  ,  -5.819050174835354     "
+  },
+  {
+    "name": "Pharmacie RANDA",
+    "address": "Avenue des FAR, Hay Riad Ahlan 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 18 55",
+    "mapLink": " https://www.google.com/maps/place/35.743515608028225,-5.841853171575991 "
+  },
+  {
+    "name": "Pharmacie RIAD",
+    "address": "Route Rahrah, Hay Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 60 51",
+    "mapLink": " https://www.google.com/maps/place/35.75859374219354,-5.856310955982158 "
+  },
+  {
+    "name": "Pharmacie RIAD ACHIFAA",
+    "address": "Sidi Driss à côté lycee Hassan II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 54 91",
+    "mapLink": " https://www.google.com/maps/place/35.73610566423258,-5.8338958506713965 "
+  },
+  {
+    "name": "Pharmacie RIAD AHLEN",
+    "address": "Avenue des Far, Lot Riad Ahlan2 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 61 20",
+    "mapLink": " https://www.google.com/maps/place/  35.74142336258359  ,  -5.837710499861951     "
+  },
+  {
+    "name": "Pharmacie Riad Al Kawtar",
+    "address": "Route de Rabat, Maison Peugeot, 400m de Pharmacie Riad Ahlen 90000 TANGER - Maroc",
+    "telephone": "+212 06 21 71 87 13",
+    "mapLink": " https://www.google.com/maps/place/ 35.738958868531796 , -5.840306765917977   "
+  },
+  {
+    "name": "Pharmacie Riad Medic",
+    "address": "Avenue des FAR, Complexe Riad Essalam 90100 TANGER - Maroc",
+    "telephone": "+212 05 39 33 57 00",
+    "mapLink": " https://www.google.com/maps/place/35.73569453002856,-5.863781862017959 "
+  },
+  {
+    "name": "Pharmacie Rif",
+    "address": "Centre Issaguen 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 81 31 69",
+    "mapLink": " https://www.google.com/maps/place/  35.241070074489485  ,  -3.9307454600930214     "
+  },
+  {
+    "name": "Pharmacie ROUTE EL AOUAMA",
+    "address": "Avenue Al Qods, Route Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 15 59",
+    "mapLink": " https://www.google.com/maps/place/  35.73391651888608  ,  -5.801938300973186     "
+  },
+  {
+    "name": "Pharmacie Rte DE RABAT",
+    "address": "Avenue des FAR, Doha Irfane, Imm. 244 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 51 68",
+    "mapLink": " https://www.google.com/maps/place/ 35.72951871179402 , -5.8801084351308415   "
+  },
+  {
+    "name": "Pharmacie SAADA",
+    "address": "3, Place des Arènes, Souk Charf 90070 TANGER - Maroc",
+    "telephone": "+212 05 39 36 36 00",
+    "mapLink": " https://www.google.com/maps/place/  35.76319203981863  ,  -5.795906895868939     "
+  },
+  {
+    "name": "Pharmacie SABILA JMAA",
+    "address": "1, Rue Malte, Sabila Jmaa, Marshan 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 52 82",
+    "mapLink": " https://www.google.com/maps/place/35.788356046271325,-5.829422232456256 "
+  },
+  {
+    "name": "Pharmacie Safae",
+    "address": "Route Asouak Assalam 90100 TANGER - Maroc",
+    "telephone": "+212 05 39 31 00 27",
+    "mapLink": " https://www.google.com/maps/place/35.74642665729247,-5.868352376850791 "
+  },
+  {
+    "name": "Pharmacie SAHAT AL OUMAM",
+    "address": "Avenue Ibn Toumart  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 34 33 91",
+    "mapLink": " https://www.google.com/maps/place/35.775192681094424,-5.805289666754363 "
+  },
+  {
+    "name": "Pharmacie SALAHEDDINE",
+    "address": "40A, Lot. Rhorfa, 2 lot Nr.1 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 56 88",
+    "mapLink": " https://www.google.com/maps/place/35.754358392515925,-5.837639307505903 "
+  },
+  {
+    "name": "Pharmacie Salima",
+    "address": "Route Principale Aouama Charkia, Près de l'annexe administrative 19 bis 90080  - Maroc",
+    "telephone": "+212 05 39 35 58 13",
+    "mapLink": " https://www.google.com/maps/place/ 35.72040905040279 , -5.791828036308289   "
+  },
+  {
+    "name": "Pharmacie SAN FRANCISCO",
+    "address": "3, Habib bourguiba, Souk el Bakar 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 13 56",
+    "mapLink": " https://www.google.com/maps/place/35.78071468857679,-5.824073788939403 "
+  },
+  {
+    "name": "Pharmacie SANAWBAR",
+    "address": "79, Rue Sanawbar lot. Narjiss, Branes II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 03 57",
+    "mapLink": " https://www.google.com/maps/place/35.757518875193405,-5.8369402552822764 "
+  },
+  {
+    "name": "Pharmacie SANIA",
+    "address": "2 Bis, Rue 3 Sania, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 36 13 30",
+    "mapLink": " https://www.google.com/maps/place/35.74286892685863,-5.80606826553675 "
+  },
+  {
+    "name": "Pharmacie Sania Malabata",
+    "address": "Sania Kdima, Tanja Balia, Derrière (MOVING CLUB ) 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 44 31 44",
+    "mapLink": " https://www.google.com/maps/place/  35.777997158410436  ,  -5.754180550575256     "
+  },
+  {
+    "name": "Pharmacie Sante City Center",
+    "address": "10, Rue mghogha, Tour Offshore 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 31 00 37",
+    "mapLink": " https://www.google.com/maps/place/ 35.77042064056111 , -5.782478339556893   "
+  },
+  {
+    "name": "Pharmacie SAT FILAGE",
+    "address": "Avenue Moulay Rachid 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 54 60",
+    "mapLink": " https://www.google.com/maps/place/35.75973446553032,-5.843171161702589 "
+  },
+  {
+    "name": "Pharmacie Satfilage",
+    "address": "Avenue Moulay Rachid Rue en face de la Prison de Tanger 90040 TANGER - Maroc",
+    "telephone": "+212 05 93 31 54 60",
+    "mapLink": " https://www.google.com/maps/place/  35.759739345097486  ,  -5.843309845043951     "
+  },
+  {
+    "name": "Pharmacie LA PLAGE",
+    "address": "7, Avenue Youssef Ibn Tachfine 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 09 74",
+    "mapLink": " https://www.google.com/maps/place/35.7787595479342,-5.802538796497846 "
+  },
+  {
+    "name": "Pharmacie LA SANTE",
+    "address": "Avenue Tarik Ibn Ziad, Drissia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 03 81",
+    "mapLink": " https://www.google.com/maps/place/35.758129288625895,-5.801372279088058 "
+  },
+  {
+    "name": "Pharmacie LA SOURCE",
+    "address": "Rue Al kadissia, En face complexe Al Majd 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 82 47",
+    "mapLink": " https://www.google.com/maps/place/ 35.74209839930847 , -5.7969849996577185   "
+  },
+  {
+    "name": "Pharmacie La Vie",
+    "address": "Hay Guembouria, Lotissement Nr. 554 90080  - Maroc",
+    "telephone": "+212 06 25 57 55 44",
+    "mapLink": " https://www.google.com/maps/place/ 35.712170687728204 , -5.80477237701416   "
+  },
+  {
+    "name": "Pharmacie LA WILAYA",
+    "address": "24, Avenue la Marche Verte  90000 TANGER - Maroc",
+    "telephone": "+212 39 32 33 88",
+    "mapLink": " https://www.google.com/maps/place/35.77316625023364,-5.81125636684185 "
+  },
+  {
+    "name": "Pharmacie Laaouini Ziaten",
+    "address": "Hay Ziaten, Nr. 3701  90100 TANGER - Maroc",
+    "telephone": "+212 05 39 31 40 15",
+    "mapLink": " https://www.google.com/maps/place/ 35.74457043569041 , -5.875378847122192   "
+  },
+  {
+    "name": "Pharmacie LAAZIFAT",
+    "address": "Rue Fatima Zohra, Quartier Bouhout Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 67 58",
+    "mapLink": " https://www.google.com/maps/place/35.75355829986101,-5.803368024679392 "
+  },
+  {
+    "name": "Pharmacie LAAZIZA",
+    "address": "Angle Avenue Abi Jarir Tabari, Place Mozar, Charf 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 63 25",
+    "mapLink": " https://www.google.com/maps/place/35.7717890942485,-5.795337669006193 "
+  },
+  {
+    "name": "Pharmacie LALLA CHAFIA",
+    "address": "Angle Rue Gutemberg et Dr. Faraj 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 92 28",
+    "mapLink": " https://www.google.com/maps/place/35.77143204128719,-5.817189413797938 "
+  },
+  {
+    "name": "Pharmacie LAMTAFI",
+    "address": "6, Rue Abbi Hanifa Lamtafi, Marchan 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 43 18",
+    "mapLink": " https://www.google.com/maps/place/35.78814351844307,-5.824792565727746 "
+  },
+  {
+    "name": "Pharmacie Le Port",
+    "address": "24, Place 9 Avril 32000 AL HOCEIMA - Maroc",
+    "telephone": "+212 05 39 98 06 06",
+    "mapLink": " https://www.google.com/maps/place/ 35.248345426439904 , -3.9318180084228516   "
+  },
+  {
+    "name": "Pharmacie LES PALMIERS",
+    "address": "Rue Antaki 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 32 57 63",
+    "mapLink": " https://www.google.com/maps/place/35.78019357059764,-5.805586568672219 "
+  },
+  {
+    "name": "Pharmacie SIDI BOUKHARI",
+    "address": "5, Rue sidi Boukhari, lots Benazaiz 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 23 23",
+    "mapLink": " https://www.google.com/maps/place/35.78295644313157,-5.83263938929083 "
+  },
+  {
+    "name": "Pharmacie SIDI DRISS",
+    "address": "Route Sidi Driss, Aharrarin 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 42 88",
+    "mapLink": " https://www.google.com/maps/place/ 35.732577278598946 , -5.835992563416104   "
+  },
+  {
+    "name": "Pharmacie SOCRATE",
+    "address": "Avenue des FAR, Résidence Zemouri III, Bloc B3 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 24 16",
+    "mapLink": " https://www.google.com/maps/place/35.747073714403044,-5.834682897060894 "
+  },
+  {
+    "name": "Pharmacie SOLEIL",
+    "address": "111, Avenue Prince Héritier 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 53 05",
+    "mapLink": " https://www.google.com/maps/place/35.77474566077697,-5.810120086510309 "
+  },
+  {
+    "name": "Pharmacie Sophia",
+    "address": "Lotissement 2432, Hay Rahrah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 94 05",
+    "mapLink": " https://www.google.com/maps/place/35.76117187066945,-5.85789573736722 "
+  },
+  {
+    "name": "Pharmacie SOUANI",
+    "address": "43, Avenue d'Anfa Souani 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 98 68",
+    "mapLink": " https://www.google.com/maps/place/35.77015490506361,-5.8242134168501565 "
+  },
+  {
+    "name": "Pharmacie SOUK EL BAKAR",
+    "address": "45, Rue Sidi Amar 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 34 25",
+    "mapLink": " https://www.google.com/maps/place/35.77907555998909,-5.830815289952094 "
+  },
+  {
+    "name": "Pharmacie SOUK M'SALLAH",
+    "address": "127 Bis, Rue M'sallah 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 36 94",
+    "mapLink": " https://www.google.com/maps/place/35.75781885763289,-5.812019833464596 "
+  },
+  {
+    "name": "Pharmacie SOUSSIA",
+    "address": "Route Rahrah, Complexe Chorouk 4 Imm. Dina, Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 78 13",
+    "mapLink": " https://www.google.com/maps/place/35.76177160092957,-5.853686617064439 "
+  },
+  {
+    "name": "Pharmacie TAFERSSITI",
+    "address": "195, Hay Riad  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 33 72",
+    "mapLink": " https://www.google.com/maps/place/ 35.741732248445565 , -5.833785856121272   "
+  },
+  {
+    "name": "Pharmacie TAFILALET",
+    "address": "Place Tafilalet, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 79 79",
+    "mapLink": " https://www.google.com/maps/place/ 35.75689168933663 , -5.810373726624152   "
+  },
+  {
+    "name": "Pharmacie TAISSIR",
+    "address": "84, Mghogha el Jadida 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 95 70",
+    "mapLink": " https://www.google.com/maps/place/35.7514738483628,-5.787196498421706 "
+  },
+  {
+    "name": "Pharmacie Malabata Hills",
+    "address": "49, Lotissement Malabata Hills,  Sania, Malabata 90000 TANGER - Maroc",
+    "telephone": "+212 05 26 01 29 24",
+    "mapLink": " https://www.google.com/maps/place/ 35.78078654317138 , -5.753000862483224   "
+  },
+  {
+    "name": "Pharmacie Marbella",
+    "address": "Route de Tétouan, Centre Commerciale Marjane II 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 73 16",
+    "mapLink": " https://www.google.com/maps/place/35.752242968731700,-5.756972081767428 "
+  },
+  {
+    "name": "Pharmacie MARCHE DE GROS AOUAM",
+    "address": "Rue Mohamed Salim Bida, Lot. Amal II, Al Aouama 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 01 07",
+    "mapLink": " https://www.google.com/maps/place/35.74975950090597,-5.795428936705534 "
+  },
+  {
+    "name": "Pharmacie MARJANE",
+    "address": "Route de Rabat, Hypermarché Marjane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 86 65",
+    "mapLink": " https://www.google.com/maps/place/35.74647290040616,-5.84389368484044 "
+  },
+  {
+    "name": "Pharmacie MASJID AL MOUHIT",
+    "address": "Lot. al Mohit, 173, Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 26 57",
+    "mapLink": " https://www.google.com/maps/place/35.762281906985784,-5.8478730271608015 "
+  },
+  {
+    "name": "Pharmacie MASJID MABROUKA",
+    "address": "Rue 3, Nr.52, Mabrouka 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 29 10",
+    "mapLink": " https://www.google.com/maps/place/35.757313154223546,-5.812776942587613 "
+  },
+  {
+    "name": "Pharmacie MASJID MARCHAN",
+    "address": "81, Avenue des Nations Unies, Marshan 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 45 90",
+    "mapLink": " https://www.google.com/maps/place/35.79009827249689,-5.823302074689537 "
+  },
+  {
+    "name": "Pharmacie MASSIRA",
+    "address": "Khandak Romane, Hay Mesnana  90000 TANGER - Maroc",
+    "telephone": "+212 06 61 20 13 76",
+    "mapLink": " https://www.google.com/maps/place/35.753789110436244,-5.862408256789983 "
+  },
+  {
+    "name": "Pharmacie Mechkouri Dhar Kanfoud",
+    "address": "Complexe El Mohammadi, Quartier Soussi, Bni Makada, Dhar El Quanfoud 90090 TANGER - Maroc",
+    "telephone": "+212 06 36 69 92 12",
+    "mapLink": " https://www.google.com/maps/place/ 35.732964218445005 , -5.81527054309845   "
+  },
+  {
+    "name": "Pharmacie MEDITERRANEE",
+    "address": "66, Avenue Plage Walidia, Tanja Balia 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 50 46",
+    "mapLink": " https://www.google.com/maps/place/35.769196476682886,-5.76755495932294 "
+  },
+  {
+    "name": "Pharmacie Meftah el Khair",
+    "address": "Lotissement RATMA, Tanja Balia , Près du Complexe Rico Costa 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 23 82",
+    "mapLink": " https://www.google.com/maps/place/ 35.767847436561915 , -5.773369073867798   "
+  },
+  {
+    "name": "Pharmacie Mehdia Golf",
+    "address": "Lot Golf 4, Nr. 10, Al Moujahidine 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 37 73 43",
+    "mapLink": " https://www.google.com/maps/place/35.764028442439646,-5.851893424987793 "
+  },
+  {
+    "name": "Pharmacie AL ASSIL",
+    "address": "Route de Tétouan, Lot. Al Assil Rés, Assil 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 35 01 20",
+    "mapLink": " https://www.google.com/maps/place/35.731478246723405,-5.766336872428434 "
+  },
+  {
+    "name": "Pharmacie AL AZHAR",
+    "address": "10, Rue Hay Alaoui, Bendibane 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 08 74",
+    "mapLink": " https://www.google.com/maps/place/35.75509648714548,-5.824286606829686 "
+  },
+  {
+    "name": "Pharmacie AL BALSAM",
+    "address": "Route de Rabat. Azib Hadj Kaddour. Rue entre Marjan et Mesnana. Derrière le Café Oualid 90000 TANGER - Maroc",
+    "telephone": "+212 07 07 68 10 17",
+    "mapLink": " https://www.google.com/maps/place/35.75084688779176,-5.84206976558427 "
+  },
+  {
+    "name": "Pharmacie AL BARAKA",
+    "address": "2, Place du Koweit, Ibéria 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 33 60 68",
+    "mapLink": " https://www.google.com/maps/place/35.781424236064524,-5.821159029273513 "
+  },
+  {
+    "name": "Pharmacie AL BAYROUNI",
+    "address": "Route reliant Marjane à Mesnana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 12 28",
+    "mapLink": " https://www.google.com/maps/place/35.751412125738824,-5.8482704111111055 "
+  },
+  {
+    "name": "Pharmacie AL BOUGHAZ",
+    "address": "78, Rue du Mexique 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 93 80 17",
+    "mapLink": " https://www.google.com/maps/place/35.77997609405343,-5.815655019634365 "
+  },
+  {
+    "name": "Pharmacie AL BOUSTANE",
+    "address": "Rés. Annassim, Boubana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 67 68",
+    "mapLink": " https://www.google.com/maps/place/35.77653438158876,-5.861011961636502 "
+  },
+  {
+    "name": "Pharmacie AL FAHS",
+    "address": "10, Rue 36, Jirari 2, Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 00 63",
+    "mapLink": " https://www.google.com/maps/place/ 35.750299212005984 , -5.814785427499508   "
+  },
+  {
+    "name": "Pharmacie AL FAJR",
+    "address": "Avenue Inara, Lot. Amendis, Mesnana  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 43 50",
+    "mapLink": " https://www.google.com/maps/place/35.752147761376094,-5.859043548729417 "
+  },
+  {
+    "name": "Pharmacie AL FARABI",
+    "address": "165, Avenue Prince Héritier 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 66 19",
+    "mapLink": " https://www.google.com/maps/place/35.77220839102659,-5.807893746443728 "
+  },
+  {
+    "name": "Pharmacie AL FARAJ",
+    "address": "Route Boukhalef, Complexe Al Irfane II  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 39 28 44",
+    "mapLink": " https://www.google.com/maps/place/35.737402806104086,-5.883576214232807 "
+  },
+  {
+    "name": "Pharmacie Al Faraj Rahrah",
+    "address": "Quartier Rahrah (en face école Abi houraira et Forêt Rahrah) 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 37 74 16",
+    "mapLink": " https://www.google.com/maps/place/  35.76522710074274  ,  -5.862810015678406     "
+  },
+  {
+    "name": "Pharmacie Pharmacie Arrahman",
+    "address": "227, Hay Boubana Rahrah  90000 TANGER - Maroc",
+    "telephone": "+212 05 31 02 61 78",
+    "mapLink": " https://www.google.com/maps/place/ 35.7633388 , -5.8694892   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Ataallah",
+    "address": "1518, Route Rahrah 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 37 70 43",
+    "mapLink": " https://www.google.com/maps/place/35.768627644460814,-5.862514972686768 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Avenue Koweit",
+    "address": "Hay Bouhout, Rue 110, Nr. 36 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 36 48 96",
+    "mapLink": " https://www.google.com/maps/place/35.73926057327055,-5.811965301901182 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Bab al Andalous",
+    "address": "1, Groupe 6, Bab Al Andalous 3, Al Irfane  90000 TANGER - Maroc",
+    "telephone": "+212 08 08 65 14 54",
+    "mapLink": " https://www.google.com/maps/place/ 35.71953665253518 , -5.878732092265328   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Badri",
+    "address": "Aouama, Quartier Mrabet 90000 TANGER - Maroc",
+    "telephone": "+212 05 31 31 32 34",
+    "mapLink": " https://www.google.com/maps/place/35.7250774748605,-5.7954521845619285 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Beni Said",
+    "address": "Rue Sidi Mohamed Ben Houcine 90090 TANGER - Maroc",
+    "telephone": "+212 05 39 30 73 35",
+    "mapLink": " https://www.google.com/maps/place/35.732819701559976,-5.831812396645546 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Boughlala",
+    "address": "285, Cimétière Sidi Driss, Route Lotissement Nakhil 90090 TANGER - Maroc",
+    "telephone": "+212 06 81 01 27 79",
+    "mapLink": " https://www.google.com/maps/place/35.72959807723001,-5.835000537335873 "
+  },
+  {
+    "name": "Pharmacie Pharmacie Branes Kedima",
+    "address": "Avenue Aswak Assalam 90000 TANGER - Maroc",
+    "telephone": "N/A",
+    "mapLink": " https://www.google.com/maps/place/ 35.74517646045007 , -5.869839228276452   "
+  },
+  {
+    "name": "Pharmacie Pharmacie Chair",
+    "address": "29, Lotissement Al Anouar, Satfilage 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 30 26 52 +212 06 10 12 43 09",
+    "mapLink": " https://www.google.com/maps/place/35.76263143590121,-5.844844914972782 "
+  },
+  {
+    "name": "Pharmacie Pharmacie du  Golf",
+    "address": "Lot. Flandria, Boubana 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 37 60 97",
+    "mapLink": " https://www.google.com/maps/place/ 35.77607874560963 , -5.854780020515486   "
+  },
+  {
+    "name": "Pharmacie Pharmacie du Grand  Stade",
+    "address": "Avenue des FAR, (Roca) 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 38 57 50",
+    "mapLink": " https://www.google.com/maps/place/ 35.73818119257943 , -5.847898233005408   "
+  },
+  {
+    "name": "Pharmacie Pharmacie du Nord",
+    "address": "3, Lot. Sanae II Lot 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 05 80",
+    "mapLink": " https://www.google.com/maps/place/ 35.75842835992583 , -5.828241379061721   "
+  },
+  {
+    "name": "Pharmacie Hay Al Inara",
+    "address": "Avenue Rouda, Arondissement 11, Mesnana 90040 TANGER - Maroc",
+    "telephone": "+212 05 39 38 34 19",
+    "mapLink": " https://www.google.com/maps/place/35.751353552600584,-5.8619624376297 "
+  },
+  {
+    "name": "Pharmacie Hay Al Manar",
+    "address": "Route Satfilage, Entree en Face de l'ENCG 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 54 12",
+    "mapLink": " https://www.google.com/maps/place/ 35.75951944752536 , -5.849631485721147   "
+  },
+  {
+    "name": "Pharmacie HAY BENKIRANE",
+    "address": "93, Rue Principale, Haoumat Echouk 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 97 57",
+    "mapLink": " https://www.google.com/maps/place/35.76059913312232,-5.787791442072287 "
+  },
+  {
+    "name": "Pharmacie HAY BOUGHAZ",
+    "address": "Hay Boughaz 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 83 22",
+    "mapLink": " https://www.google.com/maps/place/35.76120335097684,-5.814075056770278 "
+  },
+  {
+    "name": "Pharmacie HAY BOUHOUT",
+    "address": "23, Rue Abdelkhalek Toress, Hay Bouhout 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 95 00 87",
+    "mapLink": " https://www.google.com/maps/place/35.755365743044806,-5.8054770294902145 "
+  },
+  {
+    "name": "Pharmacie Hay Gambouria",
+    "address": "23, Rue Principale, Gambouria 90080  - Maroc",
+    "telephone": "+212 05 39 95 90 39",
+    "mapLink": " https://www.google.com/maps/place/ 35.71401856798699 , -5.80627977848053   "
+  },
+  {
+    "name": "Pharmacie Hay Mrabett II",
+    "address": "86, Aouama, Mrabett 2 90080 TANGER - Maroc",
+    "telephone": "+212 05 39 35 69 67",
+    "mapLink": " https://www.google.com/maps/place/35.723289989699,-5.81026554107666 "
+  },
+  {
+    "name": "Pharmacie HAY NZAHA",
+    "address": "Avenue Cheikh El Makkoudi  90000 TANGER - Maroc",
+    "telephone": "+212 05 39 32 18 41",
+    "mapLink": " https://www.google.com/maps/place/35.7697752149765,-5.7958975092743055 "
+  },
+  {
+    "name": "Pharmacie HAY OUARDA",
+    "address": "3, Avenue Moulay Ali Chéri,  lot 48,  Béni Makada 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 31 67 24",
+    "mapLink": " https://www.google.com/maps/place/35.753618081179276,-5.818540079549766 "
+  },
+  {
+    "name": "Pharmacie Hjar Sfar",
+    "address": "Avenue Aouama Charkia  90070 TANGER - Maroc",
+    "telephone": "+212 05 83 11 22 46",
+    "mapLink": " https://www.google.com/maps/place/ 35.72278479850371 , -5.789215564727783   "
+  },
+  {
+    "name": "Pharmacie HOMRANI",
+    "address": "Avenue Mohamed V, Macdo 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 30 10 51",
+    "mapLink": " https://www.google.com/maps/place/35.77514328209679,-5.786739977092552 "
+  },
+  {
+    "name": "Pharmacie IBN  TACHFINE",
+    "address": "96, Avenue Youssef Ibn Tachfine 90000 TANGER - Maroc",
+    "telephone": "+212 05 39 94 69 94",
+    "mapLink": " https://www.google.com/maps/place/35.77258102430236,-5.802355002377117 "
+  }
+]
